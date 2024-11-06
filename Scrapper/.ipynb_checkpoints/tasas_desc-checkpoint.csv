@@ -1,0 +1,1277 @@
+Institucion,Promedio,Minima,Maxima,Desviación,Moda,Tipo,Familia
+EVO,1.95,1.79,2.6,0.14,1.95,Credito,Agencias de viajes
+Mifel,2.12,1.6,2.8,0.44,1.68,Credito,Agencias de viajes
+Dlocal,2.15,2.15,2.15,0.0,2.15,Credito,Agencias de viajes
+Getnet,2.19,1.76,3.5,0.28,2.13,Credito,Agencias de viajes
+Afirme,2.25,1.6,3.9,0.33,2.4,Credito,Agencias de viajes
+Banorte,2.25,1.58,2.8,0.32,2.0,Credito,Agencias de viajes
+BBVA Bancomer,2.27,1.58,2.4,0.15,2.25,Credito,Agencias de viajes
+Autofin,2.27,2.0,2.4,0.19,2.0,Credito,Agencias de viajes
+Inbursa,2.32,1.78,2.6,0.1,2.34,Credito,Agencias de viajes
+Adyen,2.32,2.25,2.45,0.12,2.25,Credito,Agencias de viajes
+Banregio,2.35,1.6,3.13,0.61,3.13,Credito,Agencias de viajes
+Multiva,2.38,1.75,2.82,0.45,2.75,Credito,Agencias de viajes
+Fiserv,2.39,1.82,2.75,0.26,2.58,Credito,Agencias de viajes
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Agencias de viajes
+Azteca,2.5,2.5,2.5,0.0,2.5,Credito,Agencias de viajes
+Intercam Banco,2.54,2.1,2.95,0.33,2.4,Credito,Agencias de viajes
+Bajío,2.55,1.58,4.0,0.52,2.9,Credito,Agencias de viajes
+Bzpay,2.63,2.4,3.25,0.31,2.5,Credito,Agencias de viajes
+Velpay,2.8,2.8,2.8,0.0,2.8,Credito,Agencias de viajes
+Mercado Pago,3.21,1.8,3.5,0.31,2.99,Credito,Agencias de viajes
+Espiral,3.21,2.99,3.5,0.26,2.99,Credito,Agencias de viajes
+Paypal,3.25,2.15,3.65,0.48,3.42,Credito,Agencias de viajes
+PayU Digicuenta,3.44,2.1,3.5,0.21,3.5,Credito,Agencias de viajes
+Pocket,3.49,2.1,3.5,0.09,3.5,Credito,Agencias de viajes
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Agencias de viajes
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Agencias de viajes
+Stripe,3.6,2.3,3.6,0.06,3.6,Credito,Agencias de viajes
+Clip,3.6,2.9,3.6,0.0,3.6,Credito,Agencias de viajes
+Adyen,2.17,1.78,2.55,0.21,2.0,Credito,Agregadores
+Smart Payment,2.34,1.8,3.0,0.25,2.2,Credito,Agregadores
+Fiserv,2.35,1.76,3.0,0.33,2.69,Credito,Agregadores
+Bzpay,2.48,1.29,3.35,0.37,2.5,Credito,Agregadores
+Velpay,2.48,1.8,3.4,0.37,2.5,Credito,Agregadores
+Dlocal,2.6,2.0,3.4,0.49,2.6,Credito,Agregadores
+Ebanx,2.62,2.0,3.43,0.39,2.88,Credito,Agregadores
+Xaldo,2.64,2.35,2.9,0.23,2.7,Credito,Agregadores
+Cyborgbeat,2.87,2.1,3.6,0.34,2.9,Credito,Agregadores
+Adquira,2.97,1.83,2.99,0.11,2.99,Credito,Agregadores
+OEL,2.99,1.9,3.7,0.47,3.6,Credito,Agregadores
+MerIT,2.99,1.85,4.8,0.39,2.9,Credito,Agregadores
+EMS,3.01,1.2,3.95,0.71,3.95,Credito,Agregadores
+Pago Fácil,3.1,2.4,3.5,0.51,3.5,Credito,Agregadores
+Sr. Pago,3.19,2.9,3.6,0.34,2.9,Credito,Agregadores
+Mercado Pago,3.23,1.69,3.79,0.3,3.49,Credito,Agregadores
+Espiral,3.24,2.99,3.5,0.26,2.99,Credito,Agregadores
+PayU Digicuenta,3.47,1.8,3.5,0.16,3.5,Credito,Agregadores
+Pocket,3.47,1.78,3.5,0.18,3.5,Credito,Agregadores
+Paypal,3.49,1.76,3.95,0.08,3.5,Credito,Agregadores
+Qiubo,3.5,3.5,3.5,0.0,3.5,Credito,Agregadores
+Stripe,3.58,1.78,3.6,0.15,3.6,Credito,Agregadores
+Clip,3.6,2.0,3.6,0.01,3.6,Credito,Agregadores
+Afirme,1.88,1.7,2.4,0.13,1.8,Credito,Aseguradoras
+Multiva,1.88,1.59,2.75,0.4,1.72,Credito,Aseguradoras
+Autofin,1.93,1.8,2.0,0.12,2.0,Credito,Aseguradoras
+Banorte,1.96,1.58,2.53,0.28,1.62,Credito,Aseguradoras
+BBVA Bancomer,2.0,1.55,2.36,0.27,2.25,Credito,Aseguradoras
+Fiserv,2.03,1.8,3.0,0.26,1.87,Credito,Aseguradoras
+Getnet,2.06,1.55,3.5,0.23,2.19,Credito,Aseguradoras
+EVO,2.07,1.76,2.4,0.21,1.96,Credito,Aseguradoras
+Bajío,2.1,1.6,3.5,0.51,1.9,Credito,Aseguradoras
+Inbursa,2.1,1.7,2.5,0.05,2.1,Credito,Aseguradoras
+Banregio,2.14,1.64,2.8,0.49,2.8,Credito,Aseguradoras
+Azteca,2.5,2.5,2.5,0.0,2.5,Credito,Aseguradoras
+Mifel,2.7,2.5,2.8,0.17,2.8,Credito,Aseguradoras
+Dlocal,3.2,3.2,3.2,0.0,3.2,Credito,Aseguradoras
+Mercado Pago,3.21,1.82,3.5,0.31,2.99,Credito,Aseguradoras
+Espiral,3.24,2.99,3.5,0.36,2.99,Credito,Aseguradoras
+Paypal,3.26,2.78,3.65,0.34,3.02,Credito,Aseguradoras
+PayU Digicuenta,3.49,3.0,3.5,0.08,3.5,Credito,Aseguradoras
+Pocket,3.49,2.7,3.5,0.07,3.5,Credito,Aseguradoras
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Aseguradoras
+Stripe,3.59,2.6,3.6,0.1,3.6,Credito,Aseguradoras
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Aseguradoras
+BBVA Bancomer,0.0,0.0,0.0,0.0,0.0,Credito,Beneficencia
+Autofin,0.0,0.0,0.0,0.0,0.0,Credito,Beneficencia
+Multiva,0.0,0.0,0.0,0.0,0.0,Credito,Beneficencia
+Banregio,0.16,0.0,0.8,0.21,0.0,Credito,Beneficencia
+Azteca,0.6,0.0,1.8,0.9,0.0,Credito,Beneficencia
+Banorte,0.76,0.0,2.5,0.57,1.0,Credito,Beneficencia
+Inbursa,0.86,0.1,2.04,0.72,0.36,Credito,Beneficencia
+Afirme,0.92,0.0,2.3,1.01,0.0,Credito,Beneficencia
+Mifel,1.0,0.0,2.8,0.92,1.85,Credito,Beneficencia
+Bajío,1.23,0.01,2.0,0.72,2.0,Credito,Beneficencia
+EVO,1.84,1.8,2.56,0.17,1.8,Credito,Beneficencia
+Getnet,2.16,1.84,3.5,0.39,1.95,Credito,Beneficencia
+Fiserv,2.31,1.8,2.65,0.29,2.25,Credito,Beneficencia
+Bzpay,2.8,2.8,2.8,0.0,2.8,Credito,Beneficencia
+Velpay,3.0,3.0,3.0,0.0,3.0,Credito,Beneficencia
+Espiral,3.33,2.99,3.5,0.29,3.5,Credito,Beneficencia
+Paypal,3.47,2.07,3.65,0.09,3.5,Credito,Beneficencia
+PayU Digicuenta,3.47,2.2,3.5,0.18,3.5,Credito,Beneficencia
+Pocket,3.48,2.2,3.5,0.14,3.5,Credito,Beneficencia
+Stripe,3.6,2.75,3.6,0.03,3.6,Credito,Beneficencia
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Beneficencia
+Intercam Banco,1.3,1.3,1.3,0.0,1.3,Credito,Colegios y universidades
+Multiva,1.68,1.15,2.38,0.42,1.85,Credito,Colegios y universidades
+BBVA Bancomer,1.69,1.17,1.85,0.21,1.85,Credito,Colegios y universidades
+Inbursa,1.71,1.21,1.8,0.14,1.8,Credito,Colegios y universidades
+Banorte,1.74,1.12,2.25,0.29,1.55,Credito,Colegios y universidades
+Mifel,1.8,1.15,2.8,0.4,1.75,Credito,Colegios y universidades
+EVO,1.83,1.8,2.25,0.09,1.8,Credito,Colegios y universidades
+Banregio,1.94,1.22,2.76,0.63,2.76,Credito,Colegios y universidades
+Afirme,1.94,1.25,2.65,0.42,2.4,Credito,Colegios y universidades
+Autofin,2.0,2.0,2.0,0.0,2.0,Credito,Colegios y universidades
+Getnet,2.04,1.25,3.5,0.27,1.85,Credito,Colegios y universidades
+Bajío,2.11,1.15,4.0,0.62,2.4,Credito,Colegios y universidades
+Fiserv,2.12,1.77,2.9,0.2,2.1,Credito,Colegios y universidades
+Azteca,2.32,1.54,2.5,0.32,2.5,Credito,Colegios y universidades
+Bansí,2.33,2.0,2.5,0.29,2.5,Credito,Colegios y universidades
+Velpay,2.34,2.34,2.34,0.0,2.34,Credito,Colegios y universidades
+Pago Fácil,3.0,2.5,3.5,0.5,3.5,Credito,Colegios y universidades
+Paypal,3.01,1.97,3.65,0.81,3.42,Credito,Colegios y universidades
+Espiral,3.24,2.99,3.5,0.27,2.99,Credito,Colegios y universidades
+OEL,3.4,3.4,3.4,0.0,3.4,Credito,Colegios y universidades
+PayU Digicuenta,3.45,2.0,3.5,0.2,3.5,Credito,Colegios y universidades
+Pocket,3.48,1.9,3.5,0.17,3.5,Credito,Colegios y universidades
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Colegios y universidades
+Stripe,3.59,1.79,3.6,0.13,3.6,Credito,Colegios y universidades
+Clip,3.6,3.0,3.6,0.0,3.6,Credito,Colegios y universidades
+Afirme,1.91,1.2,2.65,0.38,1.9,Credito,Comida rápida
+Banregio,1.92,1.2,2.9,0.61,1.3,Credito,Comida rápida
+Mifel,2.0,1.17,2.8,0.41,2.5,Credito,Comida rápida
+Intercam Banco,2.0,1.45,2.9,0.43,2.25,Credito,Comida rápida
+Adyen,2.07,2.0,2.15,0.08,2.0,Credito,Comida rápida
+Multiva,2.09,1.25,2.85,0.41,2.27,Credito,Comida rápida
+EVO,2.1,1.77,3.03,0.15,2.18,Credito,Comida rápida
+Banorte,2.12,1.17,3.11,0.38,1.99,Credito,Comida rápida
+Getnet,2.13,1.3,3.5,0.33,2.0,Credito,Comida rápida
+BBVA Bancomer,2.18,1.17,2.31,0.19,2.25,Credito,Comida rápida
+Dlocal,2.2,2.2,2.2,0.0,2.2,Credito,Comida rápida
+Smart Payment,2.22,1.95,2.4,0.12,2.2,Credito,Comida rápida
+Bansí,2.25,2.2,2.5,0.12,2.2,Credito,Comida rápida
+Fiserv,2.28,1.78,3.0,0.24,2.35,Credito,Comida rápida
+Inbursa,2.33,1.28,2.45,0.23,2.45,Credito,Comida rápida
+Autofin,2.37,1.17,2.8,0.51,2.25,Credito,Comida rápida
+Bajío,2.38,1.2,4.0,0.55,2.9,Credito,Comida rápida
+Bzpay,2.4,1.8,3.35,0.49,2.1,Credito,Comida rápida
+Velpay,2.44,1.9,3.1,0.27,2.3,Credito,Comida rápida
+Azteca,2.49,1.5,2.5,0.12,2.5,Credito,Comida rápida
+OEL,2.99,1.9,3.6,0.53,3.6,Credito,Comida rápida
+Paypal,3.13,3.13,3.13,0.0,3.13,Credito,Comida rápida
+Espiral,3.32,2.99,3.5,0.25,3.5,Credito,Comida rápida
+PayU Digicuenta,3.41,2.0,3.5,0.3,3.5,Credito,Comida rápida
+Pago Fácil,3.42,3.2,3.5,0.15,3.5,Credito,Comida rápida
+Pocket,3.42,1.79,3.5,0.32,3.5,Credito,Comida rápida
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Comida rápida
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Comida rápida
+Clip,3.6,2.0,3.6,0.0,3.6,Credito,Comida rápida
+EMS,3.95,3.95,3.95,0.0,3.95,Credito,Comida rápida
+Banregio,1.03,0.1,2.3,0.82,0.13,Credito,Educación básica
+Banorte,1.09,0.0,1.79,0.45,0.75,Credito,Educación básica
+Multiva,1.16,0.7,1.6,0.31,1.6,Credito,Educación básica
+Afirme,1.3,0.0,1.7,0.48,1.7,Credito,Educación básica
+BBVA Bancomer,1.46,0.0,1.88,0.29,1.2,Credito,Educación básica
+Inbursa,1.55,0.07,1.8,0.45,1.8,Credito,Educación básica
+Bajío,1.61,0.4,2.3,0.4,1.2,Credito,Educación básica
+Mifel,1.85,0.0,2.8,0.63,2.5,Credito,Educación básica
+EVO,1.85,1.8,2.53,0.11,1.8,Credito,Educación básica
+Getnet,2.13,1.15,3.5,0.33,2.5,Credito,Educación básica
+Bzpay,2.16,1.29,3.3,0.53,2.2,Credito,Educación básica
+Fiserv,2.26,1.8,2.9,0.3,2.0,Credito,Educación básica
+Banjército,2.35,1.9,2.5,0.3,2.5,Credito,Educación básica
+Azteca,2.36,1.8,2.5,0.28,2.5,Credito,Educación básica
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Educación básica
+Ebanx,2.71,2.6,2.83,0.13,2.6,Credito,Educación básica
+EMS,2.8,2.8,2.8,0.0,2.8,Credito,Educación básica
+Espiral,3.28,2.99,3.5,0.27,3.5,Credito,Educación básica
+PayU Digicuenta,3.48,2.0,3.5,0.12,3.5,Credito,Educación básica
+Pocket,3.48,1.79,3.5,0.13,3.5,Credito,Educación básica
+Paypal,3.5,1.92,3.65,0.07,3.5,Credito,Educación básica
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Educación básica
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Educación básica
+Stripe,3.6,2.55,3.6,0.02,3.6,Credito,Educación básica
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Educación básica
+Banregio,1.7,1.17,2.66,0.55,1.31,Credito,Entretenimiento
+Intercam Banco,1.78,1.6,2.5,0.19,1.7,Credito,Entretenimiento
+Adyen,1.8,1.8,1.8,0.0,1.8,Credito,Entretenimiento
+BBVA Bancomer,1.9,1.2,2.07,0.23,2.07,Credito,Entretenimiento
+Banorte,1.92,1.17,2.37,0.29,2.27,Credito,Entretenimiento
+Afirme,1.96,1.19,3.9,0.4,2.4,Credito,Entretenimiento
+Multiva,1.97,1.3,2.82,0.37,2.0,Credito,Entretenimiento
+Ebanx,2.0,2.0,2.0,0.0,2.0,Credito,Entretenimiento
+EVO,2.01,1.8,2.9,0.13,1.95,Credito,Entretenimiento
+Autofin,2.05,1.55,2.3,0.43,2.3,Credito,Entretenimiento
+Mifel,2.07,1.4,2.8,0.4,2.5,Credito,Entretenimiento
+Getnet,2.15,1.18,3.5,0.34,2.3,Credito,Entretenimiento
+Inbursa,2.16,1.42,2.35,0.26,2.35,Credito,Entretenimiento
+Azteca,2.26,1.56,2.6,0.27,2.5,Credito,Entretenimiento
+Fiserv,2.28,1.78,3.0,0.3,2.5,Credito,Entretenimiento
+Velpay,2.3,2.3,2.3,0.0,2.3,Credito,Entretenimiento
+Bzpay,2.37,1.82,3.35,0.47,2.3,Credito,Entretenimiento
+Bajío,2.45,1.2,4.0,0.53,2.9,Credito,Entretenimiento
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Entretenimiento
+Smart Payment,2.95,2.95,2.95,0.0,2.95,Credito,Entretenimiento
+Mercado Pago,3.2,1.69,3.5,0.37,3.49,Credito,Entretenimiento
+EMS,3.23,1.6,3.95,1.06,3.95,Credito,Entretenimiento
+Espiral,3.26,2.99,3.5,0.26,3.5,Credito,Entretenimiento
+Pago Fácil,3.39,3.0,3.5,0.22,3.5,Credito,Entretenimiento
+Pocket,3.46,1.79,3.5,0.21,3.5,Credito,Entretenimiento
+PayU Digicuenta,3.47,1.8,3.5,0.16,3.5,Credito,Entretenimiento
+Cyborgbeat,3.5,3.5,3.5,0.0,3.5,Credito,Entretenimiento
+Paypal,3.5,2.3,3.65,0.07,3.5,Credito,Entretenimiento
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Entretenimiento
+Stripe,3.58,2.0,3.6,0.15,3.6,Credito,Entretenimiento
+Clip,3.6,2.8,3.6,0.01,3.6,Credito,Entretenimiento
+Banregio,1.77,1.33,2.51,0.46,1.45,Credito,Estacionamientos
+BBVA Bancomer,1.85,1.35,1.92,0.17,1.92,Credito,Estacionamientos
+Afirme,1.85,1.3,2.4,0.78,2.4,Credito,Estacionamientos
+Banorte,1.86,1.3,2.37,0.26,2.17,Credito,Estacionamientos
+Multiva,1.91,1.2,1.95,0.17,1.95,Credito,Estacionamientos
+EVO,1.98,1.8,2.5,0.21,1.8,Credito,Estacionamientos
+Inbursa,2.02,1.57,2.2,0.26,2.2,Credito,Estacionamientos
+EMS,2.23,2.23,2.23,0.0,2.23,Credito,Estacionamientos
+Getnet,2.32,1.8,3.5,0.39,2.3,Credito,Estacionamientos
+Bajío,2.45,1.6,2.9,0.39,2.6,Credito,Estacionamientos
+Mifel,2.5,2.5,2.5,0.0,2.5,Credito,Estacionamientos
+Azteca,2.5,2.5,2.5,0.0,2.5,Credito,Estacionamientos
+Fiserv,2.57,2.3,2.81,0.22,2.3,Credito,Estacionamientos
+PayU Digicuenta,2.86,2.2,3.5,0.53,3.5,Credito,Estacionamientos
+OEL,3.3,3.0,3.5,0.27,3.5,Credito,Estacionamientos
+Pocket,3.5,3.5,3.5,0.0,3.5,Credito,Estacionamientos
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Estacionamientos
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Estacionamientos
+Adyen,1.78,1.78,1.78,0.0,1.78,Credito,Farmacias
+BBVA Bancomer,1.93,1.3,2.23,0.27,2.23,Credito,Farmacias
+Banorte,1.93,1.3,2.53,0.31,1.77,Credito,Farmacias
+Banregio,1.95,1.32,2.62,0.5,2.62,Credito,Farmacias
+Multiva,1.95,1.3,2.77,0.34,1.88,Credito,Farmacias
+Mifel,2.0,1.38,2.8,0.4,2.5,Credito,Farmacias
+Getnet,2.08,1.35,3.5,0.34,1.89,Credito,Farmacias
+Afirme,2.09,1.3,3.9,0.33,2.4,Credito,Farmacias
+Inbursa,2.11,1.35,2.4,0.31,2.4,Credito,Farmacias
+Autofin,2.23,1.98,2.6,0.17,2.35,Credito,Farmacias
+EVO,2.24,1.78,3.0,0.18,2.23,Credito,Farmacias
+Intercam Banco,2.36,1.61,2.95,0.34,2.3,Credito,Farmacias
+Fiserv,2.38,1.85,2.86,0.25,2.48,Credito,Farmacias
+Azteca,2.43,1.53,2.5,0.22,2.5,Credito,Farmacias
+Bajío,2.47,1.3,4.0,0.54,2.9,Credito,Farmacias
+Bzpay,2.49,2.3,2.5,0.05,2.5,Credito,Farmacias
+Pago Fácil,2.9,2.9,2.9,0.0,2.9,Credito,Farmacias
+Velpay,3.0,3.0,3.0,0.0,3.0,Credito,Farmacias
+EMS,3.13,2.0,3.95,0.58,3.95,Credito,Farmacias
+Paypal,3.31,2.84,3.65,0.31,3.42,Credito,Farmacias
+Espiral,3.32,2.99,3.5,0.25,3.5,Credito,Farmacias
+PayU Digicuenta,3.44,2.3,3.5,0.2,3.5,Credito,Farmacias
+Pocket,3.48,1.86,3.5,0.16,3.5,Credito,Farmacias
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Farmacias
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Farmacias
+Clip,3.6,3.2,3.6,0.0,3.6,Credito,Farmacias
+Afirme,1.13,1.01,1.25,0.07,1.09,Credito,Gasolineras
+Banorte,1.15,1.0,1.25,0.07,1.15,Credito,Gasolineras
+Mifel,1.21,1.0,2.5,0.25,1.0,Credito,Gasolineras
+BBVA Bancomer,1.22,1.0,1.25,0.06,1.25,Credito,Gasolineras
+Inbursa,1.25,1.0,1.6,0.04,1.25,Credito,Gasolineras
+Autofin,1.25,1.25,1.25,0.0,1.25,Credito,Gasolineras
+Multiva,1.26,1.0,2.0,0.25,1.1,Credito,Gasolineras
+Bajío,1.39,1.0,3.8,0.39,1.1,Credito,Gasolineras
+Banregio,1.41,1.0,2.3,0.45,1.1,Credito,Gasolineras
+Intercam Banco,1.45,1.1,1.7,0.22,1.6,Credito,Gasolineras
+Fiserv,2.0,1.8,3.0,0.29,1.85,Credito,Gasolineras
+Getnet,2.05,1.76,3.5,0.3,1.8,Credito,Gasolineras
+EVO,2.08,2.08,2.08,0.0,2.08,Credito,Gasolineras
+Bzpay,2.12,2.1,2.15,0.03,2.1,Credito,Gasolineras
+Azteca,2.15,1.25,2.5,0.42,2.5,Credito,Gasolineras
+Smart Payment,2.2,2.2,2.2,0.0,2.2,Credito,Gasolineras
+EMS,2.36,1.2,3.95,0.88,1.85,Credito,Gasolineras
+Pocket,3.36,1.8,3.5,0.47,3.5,Credito,Gasolineras
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Credito,Gasolineras
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Gasolineras
+Multiva,1.37,1.3,1.4,0.06,1.4,Credito,Gobierno
+Bajío,1.53,1.05,2.5,0.32,1.3,Credito,Gobierno
+Banorte,1.54,1.03,2.25,0.27,1.28,Credito,Gobierno
+Mifel,1.63,1.06,2.5,0.36,1.7,Credito,Gobierno
+BBVA Bancomer,1.67,1.03,1.85,0.23,1.85,Credito,Gobierno
+Banregio,1.76,1.03,2.71,0.54,2.01,Credito,Gobierno
+EVO,1.81,1.8,2.7,0.06,1.8,Credito,Gobierno
+Afirme,1.87,1.17,2.65,0.28,2.0,Credito,Gobierno
+Getnet,1.99,1.16,3.5,0.28,1.76,Credito,Gobierno
+Paypal,2.02,1.97,2.2,0.1,1.97,Credito,Gobierno
+Fiserv,2.04,1.79,2.5,0.23,1.8,Credito,Gobierno
+Azteca,2.05,1.48,2.5,0.32,2.5,Credito,Gobierno
+Inbursa,2.07,1.91,2.15,0.11,2.15,Credito,Gobierno
+Xaldo,2.55,2.35,2.7,0.18,2.7,Credito,Gobierno
+Velpay,3.0,3.0,3.0,0.0,3.0,Credito,Gobierno
+Espiral,3.26,2.99,3.5,0.26,3.5,Credito,Gobierno
+PayU Digicuenta,3.49,2.87,3.5,0.08,3.5,Credito,Gobierno
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Gobierno
+Pocket,3.5,3.5,3.5,0.0,3.5,Credito,Gobierno
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Gobierno
+Azteca,1.82,1.53,2.5,0.38,1.53,Credito,Hospitales
+Autofin,1.9,1.9,1.9,0.0,1.9,Credito,Hospitales
+Banjército,1.94,1.8,2.0,0.09,2.0,Credito,Hospitales
+Bzpay,1.95,1.95,1.95,0.0,1.95,Credito,Hospitales
+Mifel,2.02,1.54,2.75,0.31,2.5,Credito,Hospitales
+EVO,2.04,1.78,2.7,0.17,1.95,Credito,Hospitales
+Bansí,2.07,1.85,2.5,0.38,1.85,Credito,Hospitales
+Banorte,2.11,1.53,2.64,0.29,1.9,Credito,Hospitales
+Multiva,2.11,1.6,2.97,0.36,1.95,Credito,Hospitales
+Afirme,2.15,1.7,3.6,0.45,1.8,Credito,Hospitales
+Getnet,2.15,1.77,3.5,0.3,2.08,Credito,Hospitales
+Banregio,2.2,1.53,2.83,0.47,2.83,Credito,Hospitales
+Intercam Banco,2.25,1.94,2.75,0.27,2.2,Credito,Hospitales
+BBVA Bancomer,2.26,1.53,2.44,0.2,2.25,Credito,Hospitales
+Inbursa,2.31,1.59,2.44,0.22,2.44,Credito,Hospitales
+Fiserv,2.35,1.8,3.0,0.29,2.43,Credito,Hospitales
+Bajío,2.37,1.55,4.0,0.5,2.6,Credito,Hospitales
+Pocket,3.43,1.8,3.5,0.29,3.5,Credito,Hospitales
+PayU Digicuenta,3.49,2.87,3.5,0.1,3.5,Credito,Hospitales
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Hospitales
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Hospitales
+Clip,3.6,3.6,3.6,0.0,3.6,Credito,Hospitales
+EMS,3.95,3.95,3.95,0.0,3.95,Credito,Hospitales
+Multiva,1.96,1.67,2.82,0.34,1.67,Credito,Hoteles
+EVO,2.06,1.78,2.8,0.15,2.0,Credito,Hoteles
+Afirme,2.07,1.58,3.9,0.34,2.3,Credito,Hoteles
+Banjército,2.09,1.75,2.81,0.42,1.8,Credito,Hoteles
+Banorte,2.12,1.58,2.8,0.33,2.0,Credito,Hoteles
+Mifel,2.14,1.59,2.8,0.33,2.5,Credito,Hoteles
+Getnet,2.16,1.7,3.5,0.29,2.11,Credito,Hoteles
+BBVA Bancomer,2.22,1.58,2.4,0.23,2.4,Credito,Hoteles
+Fiserv,2.3,1.79,3.0,0.22,2.4,Credito,Hoteles
+Banregio,2.31,1.58,3.15,0.61,3.15,Credito,Hoteles
+Inbursa,2.34,1.61,2.4,0.13,2.4,Credito,Hoteles
+Bajío,2.36,1.59,4.0,0.45,2.6,Credito,Hoteles
+EMS,2.37,2.05,3.0,0.55,2.05,Credito,Hoteles
+Intercam Banco,2.38,1.58,3.0,0.46,2.5,Credito,Hoteles
+Azteca,2.44,2.0,2.5,0.14,2.5,Credito,Hoteles
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Hoteles
+Smart Payment,2.59,2.3,2.65,0.14,2.65,Credito,Hoteles
+Autofin,2.6,2.2,3.01,0.57,3.01,Credito,Hoteles
+Bzpay,2.68,1.9,3.3,0.6,3.3,Credito,Hoteles
+Mercado Pago,3.21,1.82,3.5,0.29,2.99,Credito,Hoteles
+Espiral,3.26,2.99,3.5,0.26,3.5,Credito,Hoteles
+PayU Digicuenta,3.32,2.3,3.5,0.4,3.5,Credito,Hoteles
+Paypal,3.4,2.4,3.65,0.3,3.5,Credito,Hoteles
+Pocket,3.44,1.79,3.5,0.25,3.5,Credito,Hoteles
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Hoteles
+Stripe,3.58,1.78,3.6,0.17,3.6,Credito,Hoteles
+Clip,3.6,2.8,3.6,0.01,3.6,Credito,Hoteles
+Banorte,0.94,0.11,2.11,0.42,0.75,Credito,Misceláneas
+Banregio,1.07,0.0,2.35,0.77,2.35,Credito,Misceláneas
+Multiva,1.12,0.7,2.0,0.34,0.98,Credito,Misceláneas
+Afirme,1.16,0.4,1.82,0.47,1.7,Credito,Misceláneas
+Mifel,1.44,0.0,2.8,0.77,2.5,Credito,Misceláneas
+Azteca,1.51,0.0,2.5,0.61,1.15,Credito,Misceláneas
+Bajío,1.59,0.0,2.35,0.53,1.55,Credito,Misceláneas
+Bansí,1.68,1.15,2.5,0.18,1.65,Credito,Misceláneas
+Autofin,1.78,0.0,1.87,0.41,1.87,Credito,Misceláneas
+Adyen,1.95,1.95,1.95,0.0,1.95,Credito,Misceláneas
+EVO,2.03,1.77,3.0,0.27,2.08,Credito,Misceláneas
+BBVA Bancomer,2.05,0.0,2.25,0.38,2.25,Credito,Misceláneas
+Getnet,2.21,1.25,3.5,0.4,2.5,Credito,Misceláneas
+Fiserv,2.28,1.78,3.0,0.36,1.8,Credito,Misceláneas
+Banjército,2.38,2.0,2.5,0.19,2.5,Credito,Misceláneas
+Bzpay,2.46,2.0,3.3,0.4,2.0,Credito,Misceláneas
+Smart Payment,2.6,2.6,2.6,0.0,2.6,Credito,Misceláneas
+Inbursa,2.77,0.0,2.95,0.31,2.95,Credito,Misceláneas
+Velpay,2.9,2.9,2.9,0.0,2.9,Credito,Misceláneas
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Credito,Misceláneas
+EMS,2.96,1.6,3.95,0.73,3.95,Credito,Misceláneas
+OEL,3.05,2.27,3.7,0.58,2.5,Credito,Misceláneas
+Espiral,3.37,2.99,3.5,0.22,3.5,Credito,Misceláneas
+PayU Digicuenta,3.47,2.9,3.5,0.11,3.5,Credito,Misceláneas
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Misceláneas
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Misceláneas
+Pocket,3.5,1.8,3.5,0.07,3.5,Credito,Misceláneas
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Misceláneas
+Clip,3.6,3.0,3.6,0.0,3.6,Credito,Misceláneas
+Paypal,3.65,3.65,3.65,0.0,3.65,Credito,Misceláneas
+Banregio,1.16,0.03,2.3,0.85,2.3,Credito,Médicos y dentistas
+Multiva,1.2,0.7,1.85,0.33,0.98,Credito,Médicos y dentistas
+Banorte,1.24,0.0,2.38,0.63,0.75,Credito,Médicos y dentistas
+BBVA Bancomer,1.25,0.0,1.95,0.17,1.2,Credito,Médicos y dentistas
+Afirme,1.4,0.49,1.8,0.43,1.7,Credito,Médicos y dentistas
+Mifel,1.74,0.0,2.8,0.62,1.95,Credito,Médicos y dentistas
+Banjército,1.84,1.26,2.0,0.23,2.0,Credito,Médicos y dentistas
+Autofin,1.96,1.8,2.0,0.06,2.0,Credito,Médicos y dentistas
+EVO,2.14,1.76,3.0,0.33,2.08,Credito,Médicos y dentistas
+Bajío,2.22,0.0,2.6,0.39,2.6,Credito,Médicos y dentistas
+Bzpay,2.27,1.8,2.9,0.35,1.98,Credito,Médicos y dentistas
+Velpay,2.32,1.8,2.9,0.4,1.8,Credito,Médicos y dentistas
+Inbursa,2.35,0.0,2.5,0.23,2.5,Credito,Médicos y dentistas
+Bansí,2.41,1.15,2.5,0.3,2.5,Credito,Médicos y dentistas
+Getnet,2.42,1.41,3.5,0.54,2.02,Credito,Médicos y dentistas
+Azteca,2.45,0.0,2.5,0.35,2.5,Credito,Médicos y dentistas
+Fiserv,2.51,1.79,3.0,0.26,2.69,Credito,Médicos y dentistas
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Credito,Médicos y dentistas
+Mercado Pago,3.22,1.79,3.5,0.3,2.99,Credito,Médicos y dentistas
+Espiral,3.25,2.99,3.5,0.26,3.5,Credito,Médicos y dentistas
+EMS,3.27,1.99,3.95,0.78,3.95,Credito,Médicos y dentistas
+PayU Digicuenta,3.47,2.0,3.5,0.16,3.5,Credito,Médicos y dentistas
+Pocket,3.48,1.8,3.5,0.12,3.5,Credito,Médicos y dentistas
+Paypal,3.5,2.9,3.5,0.01,3.5,Credito,Médicos y dentistas
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Médicos y dentistas
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Médicos y dentistas
+Stripe,3.6,2.4,3.6,0.07,3.6,Credito,Médicos y dentistas
+Clip,3.6,2.7,3.6,0.0,3.6,Credito,Médicos y dentistas
+Autofin,2.06,1.53,3.36,0.41,1.8,Credito,Otros
+Adyen,2.1,1.85,2.5,0.19,2.0,Credito,Otros
+Banjército,2.14,1.65,4.0,0.49,1.8,Credito,Otros
+EVO,2.16,1.76,3.03,0.19,2.13,Credito,Otros
+Getnet,2.16,1.58,3.5,0.33,2.02,Credito,Otros
+Banregio,2.2,1.53,2.75,0.48,2.75,Credito,Otros
+Mifel,2.23,1.53,2.8,0.35,2.5,Credito,Otros
+Multiva,2.24,1.55,3.36,0.45,2.2,Credito,Otros
+BBVA Bancomer,2.25,1.53,2.38,0.16,2.25,Credito,Otros
+Afirme,2.27,1.55,3.9,0.3,2.4,Credito,Otros
+Banorte,2.27,1.53,2.98,0.33,2.58,Credito,Otros
+Intercam Banco,2.44,1.58,3.0,0.45,3.0,Credito,Otros
+Fiserv,2.46,1.78,3.0,0.29,2.65,Credito,Otros
+Bzpay,2.46,1.88,3.35,0.3,2.5,Credito,Otros
+Inbursa,2.5,1.53,2.79,0.31,2.79,Credito,Otros
+Velpay,2.57,1.89,3.4,0.45,2.5,Credito,Otros
+Bajío,2.61,1.53,4.0,0.47,2.9,Credito,Otros
+Ebanx,2.7,2.05,3.43,0.39,2.88,Credito,Otros
+Dlocal,2.71,2.0,3.4,0.59,2.0,Credito,Otros
+Pago Fácil,2.85,2.4,3.5,0.52,2.4,Credito,Otros
+Cyborgbeat,2.87,2.1,3.6,0.39,2.5,Credito,Otros
+Azteca,2.88,1.6,3.08,0.21,2.99,Credito,Otros
+EMS,3.0,1.55,3.95,0.62,3.95,Credito,Otros
+OEL,3.11,2.99,3.5,0.21,3.0,Credito,Otros
+Mercado Pago,3.22,1.69,3.69,0.31,2.99,Credito,Otros
+Espiral,3.22,2.99,3.5,0.25,2.99,Credito,Otros
+PayU Digicuenta,3.47,1.87,3.5,0.14,3.5,Credito,Otros
+Pocket,3.48,1.79,3.5,0.15,3.5,Credito,Otros
+Paypal,3.5,2.15,3.65,0.02,3.5,Credito,Otros
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Otros
+Stripe,3.58,2.0,3.6,0.15,3.6,Credito,Otros
+Clip,3.6,2.0,3.6,0.0,3.6,Credito,Otros
+Inbursa,1.51,1.5,2.45,0.09,1.5,Credito,Peaje
+BBVA Bancomer,1.65,1.38,2.31,0.14,1.75,Credito,Peaje
+EVO,1.8,1.8,1.8,0.0,1.8,Credito,Peaje
+Fiserv,1.85,1.85,1.85,0.0,1.85,Credito,Peaje
+Afirme,1.98,1.3,2.0,0.12,2.0,Credito,Peaje
+Banorte,2.02,1.35,2.8,0.47,1.8,Credito,Peaje
+Getnet,2.02,1.76,2.4,0.14,1.98,Credito,Peaje
+Banregio,2.6,1.62,2.8,0.48,2.8,Credito,Peaje
+Bzpay,3.3,3.3,3.3,0.0,3.3,Credito,Peaje
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Credito,Peaje
+Pocket,3.5,3.5,3.5,0.0,3.5,Credito,Peaje
+Banregio,0.88,0.0,2.3,0.8,2.3,Credito,Refacciones y ferreterías
+Banorte,0.93,0.0,2.06,0.46,0.75,Credito,Refacciones y ferreterías
+Multiva,0.99,0.7,1.5,0.14,0.98,Credito,Refacciones y ferreterías
+Afirme,1.15,0.49,1.75,0.47,1.7,Credito,Refacciones y ferreterías
+Mifel,1.18,0.0,2.8,0.74,1.1,Credito,Refacciones y ferreterías
+Bajío,1.74,0.0,2.45,0.55,2.2,Credito,Refacciones y ferreterías
+Autofin,1.96,1.8,2.1,0.11,2.0,Credito,Refacciones y ferreterías
+Velpay,2.03,2.0,2.05,0.03,2.05,Credito,Refacciones y ferreterías
+Adyen,2.11,2.11,2.11,0.0,2.11,Credito,Refacciones y ferreterías
+BBVA Bancomer,2.12,0.0,2.28,0.34,2.25,Credito,Refacciones y ferreterías
+EVO,2.13,1.76,3.03,0.28,2.08,Credito,Refacciones y ferreterías
+Getnet,2.22,1.15,3.5,0.45,2.5,Credito,Refacciones y ferreterías
+Fiserv,2.24,1.78,3.0,0.4,1.8,Credito,Refacciones y ferreterías
+Inbursa,2.38,0.0,2.5,0.23,2.5,Credito,Refacciones y ferreterías
+Azteca,2.45,0.0,2.5,0.36,2.5,Credito,Refacciones y ferreterías
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Refacciones y ferreterías
+Banjército,2.51,1.71,2.9,0.33,2.8,Credito,Refacciones y ferreterías
+Bzpay,2.55,1.9,3.3,0.68,1.9,Credito,Refacciones y ferreterías
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Credito,Refacciones y ferreterías
+EMS,2.9,1.9,3.95,0.67,2.45,Credito,Refacciones y ferreterías
+Mercado Pago,3.22,1.69,3.5,0.3,2.99,Credito,Refacciones y ferreterías
+Espiral,3.27,2.99,3.5,0.26,3.5,Credito,Refacciones y ferreterías
+Paypal,3.37,3.0,3.65,0.3,3.65,Credito,Refacciones y ferreterías
+Pocket,3.44,1.79,3.5,0.26,3.5,Credito,Refacciones y ferreterías
+PayU Digicuenta,3.45,2.6,3.5,0.18,3.5,Credito,Refacciones y ferreterías
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Refacciones y ferreterías
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Refacciones y ferreterías
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Refacciones y ferreterías
+Clip,3.6,2.4,3.6,0.03,3.6,Credito,Refacciones y ferreterías
+Bansí,1.71,1.71,1.71,0.0,1.71,Credito,Renta de autos
+Multiva,1.83,1.65,2.3,0.22,1.65,Credito,Renta de autos
+EVO,2.01,1.85,2.45,0.12,1.96,Credito,Renta de autos
+Getnet,2.02,1.63,3.5,0.25,1.8,Credito,Renta de autos
+Adyen,2.06,2.06,2.06,0.0,2.06,Credito,Renta de autos
+Mifel,2.07,1.72,2.8,0.31,1.9,Credito,Renta de autos
+Bzpay,2.1,2.1,2.1,0.0,2.1,Credito,Renta de autos
+BBVA Bancomer,2.12,1.58,2.4,0.27,2.4,Credito,Renta de autos
+Banorte,2.16,1.6,2.71,0.29,1.9,Credito,Renta de autos
+Afirme,2.18,1.7,2.8,0.32,2.3,Credito,Renta de autos
+Banregio,2.26,1.58,3.0,0.58,3.0,Credito,Renta de autos
+Inbursa,2.3,1.7,2.4,0.14,2.4,Credito,Renta de autos
+Bajío,2.37,1.58,3.4,0.43,2.9,Credito,Renta de autos
+Autofin,2.42,2.35,2.5,0.11,2.35,Credito,Renta de autos
+Intercam Banco,2.47,1.9,3.0,0.4,2.5,Credito,Renta de autos
+Fiserv,2.48,1.8,3.0,0.27,2.68,Credito,Renta de autos
+Azteca,2.5,2.5,2.5,0.0,2.5,Credito,Renta de autos
+Cyborgbeat,2.8,2.8,2.8,0.0,2.8,Credito,Renta de autos
+EMS,3.0,3.0,3.0,0.0,3.0,Credito,Renta de autos
+Espiral,3.31,2.99,3.5,0.26,3.5,Credito,Renta de autos
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Credito,Renta de autos
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Renta de autos
+Pocket,3.5,3.2,3.5,0.02,3.5,Credito,Renta de autos
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Renta de autos
+Clip,3.6,2.6,3.6,0.03,3.6,Credito,Renta de autos
+Adyen,2.16,1.95,2.45,0.22,2.35,Credito,Restaurantes
+Mifel,2.17,1.76,2.8,0.29,2.5,Credito,Restaurantes
+Multiva,2.18,1.76,2.97,0.37,1.9,Credito,Restaurantes
+Afirme,2.2,1.79,2.9,0.23,2.4,Credito,Restaurantes
+Getnet,2.21,1.76,3.5,0.32,2.0,Credito,Restaurantes
+Smart Payment,2.24,1.8,2.65,0.17,2.2,Credito,Restaurantes
+EVO,2.27,1.76,3.03,0.2,2.3,Credito,Restaurantes
+BBVA Bancomer,2.32,1.76,2.55,0.17,2.25,Credito,Restaurantes
+Intercam Banco,2.33,1.78,2.7,0.28,2.2,Credito,Restaurantes
+Banorte,2.34,1.76,3.21,0.36,1.99,Credito,Restaurantes
+Bansí,2.38,1.8,2.5,0.24,2.5,Credito,Restaurantes
+Banjército,2.45,1.8,5.39,0.79,1.8,Credito,Restaurantes
+Azteca,2.48,1.9,2.6,0.11,2.5,Credito,Restaurantes
+Banregio,2.49,1.76,3.2,0.58,3.2,Credito,Restaurantes
+Cyborgbeat,2.5,2.5,2.5,0.0,2.5,Credito,Restaurantes
+Velpay,2.51,2.2,3.2,0.29,2.55,Credito,Restaurantes
+Inbursa,2.55,1.76,3.0,0.34,3.0,Credito,Restaurantes
+Bajío,2.57,1.76,4.0,0.43,2.9,Credito,Restaurantes
+Fiserv,2.57,1.78,3.0,0.23,2.64,Credito,Restaurantes
+Bzpay,2.58,1.9,3.3,0.33,2.5,Credito,Restaurantes
+Autofin,2.59,1.76,3.31,0.31,2.6,Credito,Restaurantes
+OEL,2.92,2.05,3.6,0.43,2.8,Credito,Restaurantes
+EMS,3.13,1.9,3.95,0.7,3.95,Credito,Restaurantes
+Mercado Pago,3.23,1.79,3.5,0.27,2.99,Credito,Restaurantes
+Espiral,3.27,2.99,3.5,0.25,3.5,Credito,Restaurantes
+Pocket,3.41,1.79,3.5,0.33,3.5,Credito,Restaurantes
+Paypal,3.5,2.32,3.5,0.0,3.5,Credito,Restaurantes
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Restaurantes
+PayU Digicuenta,3.5,3.0,3.5,0.03,3.5,Credito,Restaurantes
+Stripe,3.6,2.2,3.6,0.04,3.6,Credito,Restaurantes
+Clip,3.6,2.4,3.6,0.01,3.6,Credito,Restaurantes
+Banregio,0.87,0.02,2.3,0.83,0.13,Credito,Salones de belleza
+Multiva,1.23,0.7,1.85,0.34,0.98,Credito,Salones de belleza
+Banorte,1.27,0.11,2.25,0.64,0.75,Credito,Salones de belleza
+Afirme,1.38,0.0,1.8,0.43,1.7,Credito,Salones de belleza
+Mifel,1.44,0.0,2.8,0.68,1.0,Credito,Salones de belleza
+Banjército,1.97,1.8,2.3,0.29,1.8,Credito,Salones de belleza
+Velpay,2.0,2.0,2.0,0.0,2.0,Credito,Salones de belleza
+EVO,2.14,1.8,3.0,0.32,2.08,Credito,Salones de belleza
+Bajío,2.16,0.0,2.6,0.5,2.6,Credito,Salones de belleza
+BBVA Bancomer,2.21,0.0,2.28,0.16,2.25,Credito,Salones de belleza
+Adyen,2.26,2.26,2.26,0.0,2.26,Credito,Salones de belleza
+Bzpay,2.33,1.8,3.1,0.59,1.85,Credito,Salones de belleza
+Getnet,2.35,1.77,3.5,0.49,2.02,Credito,Salones de belleza
+Inbursa,2.36,0.0,2.5,0.28,2.5,Credito,Salones de belleza
+Azteca,2.41,0.0,2.8,0.66,2.5,Credito,Salones de belleza
+Fiserv,2.49,1.8,3.0,0.28,2.69,Credito,Salones de belleza
+Bansí,2.5,2.5,2.5,0.0,2.5,Credito,Salones de belleza
+Mercado Pago,3.22,1.69,3.5,0.3,2.99,Credito,Salones de belleza
+Espiral,3.24,2.99,3.5,0.28,3.5,Credito,Salones de belleza
+PayU Digicuenta,3.48,2.1,3.5,0.16,3.5,Credito,Salones de belleza
+Pocket,3.48,1.8,3.5,0.14,3.5,Credito,Salones de belleza
+Paypal,3.5,3.42,3.5,0.0,3.5,Credito,Salones de belleza
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Salones de belleza
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Salones de belleza
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Salones de belleza
+Clip,3.6,3.0,3.6,0.0,3.6,Credito,Salones de belleza
+EMS,3.69,2.9,3.95,0.53,3.95,Credito,Salones de belleza
+Afirme,1.84,1.65,3.0,0.21,1.93,Credito,Supermercados
+Adyen,1.98,1.85,2.12,0.19,2.12,Credito,Supermercados
+Banorte,2.05,1.53,2.97,0.28,2.1,Credito,Supermercados
+Multiva,2.08,1.65,2.75,0.42,2.6,Credito,Supermercados
+Banjército,2.09,1.71,3.5,0.43,1.8,Credito,Supermercados
+Banregio,2.09,1.53,2.96,0.52,2.96,Credito,Supermercados
+Mifel,2.11,1.88,2.5,0.24,1.88,Credito,Supermercados
+BBVA Bancomer,2.14,1.55,2.4,0.24,2.25,Credito,Supermercados
+Azteca,2.21,1.73,2.95,0.22,2.05,Credito,Supermercados
+EVO,2.24,1.79,2.93,0.22,2.37,Credito,Supermercados
+Fiserv,2.31,1.79,2.95,0.45,1.79,Credito,Supermercados
+Bajío,2.33,1.55,3.4,0.39,2.6,Credito,Supermercados
+Getnet,2.34,1.59,3.5,0.25,2.5,Credito,Supermercados
+Bzpay,2.41,2.1,3.03,0.54,2.1,Credito,Supermercados
+Inbursa,2.45,1.8,2.47,0.09,2.47,Credito,Supermercados
+EMS,2.74,1.99,3.0,0.42,2.9,Credito,Supermercados
+Velpay,3.0,3.0,3.0,0.0,3.0,Credito,Supermercados
+Mercado Pago,3.23,1.69,3.5,0.27,2.99,Credito,Supermercados
+Paypal,3.26,2.78,3.65,0.34,3.42,Credito,Supermercados
+Espiral,3.37,2.99,3.5,0.25,3.5,Credito,Supermercados
+PayU Digicuenta,3.38,1.99,3.5,0.32,3.5,Credito,Supermercados
+Pocket,3.44,2.0,3.5,0.28,3.5,Credito,Supermercados
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Supermercados
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Supermercados
+Clip,3.6,2.4,3.6,0.01,3.6,Credito,Supermercados
+Inbursa,1.7,1.62,2.45,0.05,1.7,Credito,Telecomunicaciones
+Azteca,1.78,1.47,2.5,0.17,1.73,Credito,Telecomunicaciones
+BBVA Bancomer,1.85,1.45,2.26,0.24,1.7,Credito,Telecomunicaciones
+Bzpay,1.85,1.85,1.85,0.0,1.85,Credito,Telecomunicaciones
+Banorte,1.86,1.6,2.56,0.22,1.8,Credito,Telecomunicaciones
+EVO,1.9,1.77,2.45,0.11,1.9,Credito,Telecomunicaciones
+Getnet,1.93,1.5,3.5,0.14,1.9,Credito,Telecomunicaciones
+Banregio,1.99,1.55,2.7,0.46,1.55,Credito,Telecomunicaciones
+Afirme,2.07,1.95,2.4,0.18,1.95,Credito,Telecomunicaciones
+Mifel,2.23,2.1,2.5,0.23,2.1,Credito,Telecomunicaciones
+Adyen,2.42,2.3,2.55,0.18,2.55,Credito,Telecomunicaciones
+Fiserv,2.55,2.03,2.69,0.2,2.63,Credito,Telecomunicaciones
+Autofin,2.6,2.6,2.6,0.0,2.6,Credito,Telecomunicaciones
+Bajío,2.61,1.9,3.0,0.25,2.6,Credito,Telecomunicaciones
+Multiva,2.8,2.8,2.8,0.0,2.8,Credito,Telecomunicaciones
+Espiral,3.17,2.99,3.5,0.25,2.99,Credito,Telecomunicaciones
+Paypal,3.18,2.43,3.65,0.46,3.42,Credito,Telecomunicaciones
+EMS,3.2,3.2,3.2,0.0,3.2,Credito,Telecomunicaciones
+PayU Digicuenta,3.46,2.2,3.5,0.16,3.5,Credito,Telecomunicaciones
+Pocket,3.48,2.5,3.5,0.13,3.5,Credito,Telecomunicaciones
+OEL,3.5,3.5,3.5,0.0,3.5,Credito,Telecomunicaciones
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Telecomunicaciones
+Stripe,3.58,2.19,3.6,0.17,3.6,Credito,Telecomunicaciones
+Mifel,1.82,1.82,1.82,0.0,1.82,Credito,Transporte aéreo
+Intercam Banco,1.9,1.9,1.9,0.0,1.9,Credito,Transporte aéreo
+Banorte,1.93,1.53,2.21,0.17,1.9,Credito,Transporte aéreo
+EVO,1.96,1.79,2.74,0.14,2.0,Credito,Transporte aéreo
+Getnet,1.97,1.77,3.5,0.2,1.9,Credito,Transporte aéreo
+Adyen,2.05,2.05,2.05,0.0,2.05,Credito,Transporte aéreo
+Inbursa,2.06,1.96,2.2,0.09,1.99,Credito,Transporte aéreo
+BBVA Bancomer,2.21,1.65,2.32,0.15,2.25,Credito,Transporte aéreo
+Afirme,2.22,1.6,2.4,0.31,2.4,Credito,Transporte aéreo
+Banregio,2.25,1.61,2.71,0.47,2.71,Credito,Transporte aéreo
+Bajío,2.49,1.55,3.2,0.43,2.6,Credito,Transporte aéreo
+Azteca,2.5,2.5,2.5,0.0,2.5,Credito,Transporte aéreo
+Multiva,2.69,2.5,2.82,0.17,2.82,Credito,Transporte aéreo
+Bzpay,2.7,2.7,2.7,0.0,2.7,Credito,Transporte aéreo
+Fiserv,2.77,2.73,2.83,0.05,2.73,Credito,Transporte aéreo
+EMS,3.05,2.9,3.2,0.21,3.2,Credito,Transporte aéreo
+Paypal,3.1,1.95,3.65,0.63,3.65,Credito,Transporte aéreo
+Espiral,3.24,2.99,3.5,0.26,2.99,Credito,Transporte aéreo
+Pocket,3.41,2.1,3.5,0.34,3.5,Credito,Transporte aéreo
+PayU Digicuenta,3.47,2.6,3.5,0.13,3.5,Credito,Transporte aéreo
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Credito,Transporte aéreo
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Transporte aéreo
+Stripe,3.6,3.6,3.6,0.0,3.6,Credito,Transporte aéreo
+Mifel,2.09,1.53,2.8,0.35,2.5,Credito,Ventas al detalle (Retail)
+EVO,2.13,1.76,3.0,0.2,2.13,Credito,Ventas al detalle (Retail)
+Getnet,2.15,1.53,3.5,0.34,2.01,Credito,Ventas al detalle (Retail)
+Multiva,2.16,1.53,3.14,0.42,2.5,Credito,Ventas al detalle (Retail)
+BBVA Bancomer,2.18,1.53,2.38,0.23,2.25,Credito,Ventas al detalle (Retail)
+Banorte,2.22,1.53,2.98,0.34,2.13,Credito,Ventas al detalle (Retail)
+Adyen,2.22,1.85,2.5,0.21,2.5,Credito,Ventas al detalle (Retail)
+Afirme,2.25,1.53,3.9,0.3,2.4,Credito,Ventas al detalle (Retail)
+Banregio,2.28,1.53,2.75,0.48,2.75,Credito,Ventas al detalle (Retail)
+Smart Payment,2.28,2.15,2.35,0.09,2.35,Credito,Ventas al detalle (Retail)
+Fiserv,2.29,1.76,3.0,0.35,2.55,Credito,Ventas al detalle (Retail)
+Ebanx,2.3,2.3,2.3,0.0,2.3,Credito,Ventas al detalle (Retail)
+Intercam Banco,2.31,1.61,3.1,0.46,1.7,Credito,Ventas al detalle (Retail)
+Bansí,2.4,1.65,2.5,0.24,2.5,Credito,Ventas al detalle (Retail)
+Autofin,2.41,1.53,3.14,0.31,2.1,Credito,Ventas al detalle (Retail)
+Velpay,2.48,2.05,3.0,0.29,2.5,Credito,Ventas al detalle (Retail)
+Bzpay,2.51,1.8,3.3,0.3,2.6,Credito,Ventas al detalle (Retail)
+Azteca,2.52,1.63,2.8,0.16,2.5,Credito,Ventas al detalle (Retail)
+Bajío,2.6,1.53,4.0,0.5,2.9,Credito,Ventas al detalle (Retail)
+Dlocal,2.64,2.05,3.4,0.51,2.05,Credito,Ventas al detalle (Retail)
+Inbursa,2.7,1.53,2.97,0.35,2.97,Credito,Ventas al detalle (Retail)
+Cyborgbeat,2.88,2.5,3.6,0.22,2.9,Credito,Ventas al detalle (Retail)
+Xaldo,2.9,2.9,2.9,0.0,2.9,Credito,Ventas al detalle (Retail)
+EMS,3.0,1.6,3.95,0.72,3.95,Credito,Ventas al detalle (Retail)
+OEL,3.16,1.9,3.6,0.52,3.6,Credito,Ventas al detalle (Retail)
+Mercado Pago,3.24,1.69,3.79,0.3,3.5,Credito,Ventas al detalle (Retail)
+Espiral,3.25,2.99,3.5,0.26,3.5,Credito,Ventas al detalle (Retail)
+Pago Fácil,3.4,2.5,3.5,0.27,3.5,Credito,Ventas al detalle (Retail)
+PayU Digicuenta,3.47,1.91,3.5,0.14,3.5,Credito,Ventas al detalle (Retail)
+Pocket,3.47,1.78,3.5,0.19,3.5,Credito,Ventas al detalle (Retail)
+Paypal,3.5,1.78,3.83,0.03,3.5,Credito,Ventas al detalle (Retail)
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Credito,Ventas al detalle (Retail)
+EVO,1.33,1.15,2.0,0.19,1.2,Debito,Agencias de viajes
+Inbursa,1.52,1.15,1.92,0.1,1.49,Debito,Agencias de viajes
+BBVA Bancomer,1.62,1.1,1.7,0.15,1.7,Debito,Agencias de viajes
+Banorte,1.66,1.1,2.3,0.32,2.0,Debito,Agencias de viajes
+Autofin,1.71,1.4,2.0,0.25,1.4,Debito,Agencias de viajes
+Getnet,1.73,1.15,3.5,0.37,1.53,Debito,Agencias de viajes
+Mifel,1.83,1.2,2.5,0.53,1.24,Debito,Agencias de viajes
+Afirme,1.86,1.1,3.15,0.29,1.8,Debito,Agencias de viajes
+Multiva,1.87,1.4,2.12,0.26,2.12,Debito,Agencias de viajes
+Adyen,1.88,1.7,2.25,0.26,1.7,Debito,Agencias de viajes
+Ebanx,1.95,1.95,1.95,0.0,1.95,Debito,Agencias de viajes
+Banregio,1.97,1.1,3.13,0.6,2.5,Debito,Agencias de viajes
+Bzpay,2.11,1.73,2.4,0.3,2.4,Debito,Agencias de viajes
+Dlocal,2.15,2.15,2.15,0.0,2.15,Debito,Agencias de viajes
+Fiserv,2.16,1.3,2.75,0.32,2.21,Debito,Agencias de viajes
+Intercam Banco,2.21,1.6,2.95,0.6,1.7,Debito,Agencias de viajes
+Bajío,2.43,1.2,4.0,0.56,2.7,Debito,Agencias de viajes
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Agencias de viajes
+Azteca,2.51,2.4,2.8,0.14,2.4,Debito,Agencias de viajes
+Mercado Pago,2.74,1.25,3.5,0.83,1.69,Debito,Agencias de viajes
+Velpay,2.8,2.8,2.8,0.0,2.8,Debito,Agencias de viajes
+Espiral,3.21,2.99,3.5,0.26,2.99,Debito,Agencias de viajes
+Paypal,3.25,2.15,3.65,0.48,3.42,Debito,Agencias de viajes
+PayU Digicuenta,3.4,2.1,3.5,0.24,3.5,Debito,Agencias de viajes
+Pocket,3.48,1.25,3.5,0.16,3.5,Debito,Agencias de viajes
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Agencias de viajes
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Agencias de viajes
+Stripe,3.6,2.3,3.6,0.06,3.6,Debito,Agencias de viajes
+Clip,3.6,2.9,3.6,0.0,3.6,Debito,Agencias de viajes
+Fiserv,1.93,1.15,3.0,0.45,2.25,Debito,Agregadores
+Smart Payment,1.99,1.28,3.0,0.48,1.7,Debito,Agregadores
+Adyen,2.15,1.3,2.55,0.29,2.0,Debito,Agregadores
+Bzpay,2.22,1.15,3.3,0.47,1.8,Debito,Agregadores
+Velpay,2.23,1.15,3.4,0.57,2.3,Debito,Agregadores
+Dlocal,2.25,1.3,3.4,0.62,1.5,Debito,Agregadores
+Ebanx,2.27,1.72,2.88,0.32,2.1,Debito,Agregadores
+Xaldo,2.64,2.35,2.9,0.23,2.7,Debito,Agregadores
+Cyborgbeat,2.85,1.9,3.6,0.34,2.9,Debito,Agregadores
+Mercado Pago,2.91,1.2,3.79,0.75,3.49,Debito,Agregadores
+EMS,2.92,1.2,3.95,0.8,3.95,Debito,Agregadores
+OEL,2.95,1.45,3.7,0.55,3.6,Debito,Agregadores
+Adquira,2.96,1.35,2.99,0.18,2.99,Debito,Agregadores
+MerIT,2.99,1.8,4.8,0.39,2.9,Debito,Agregadores
+Paypal,3.01,1.15,3.95,0.82,3.5,Debito,Agregadores
+Pago Fácil,3.1,2.4,3.5,0.51,3.5,Debito,Agregadores
+Sr. Pago,3.19,2.9,3.6,0.34,2.9,Debito,Agregadores
+Espiral,3.24,2.99,3.5,0.26,2.99,Debito,Agregadores
+Pocket,3.43,1.15,3.5,0.34,3.5,Debito,Agregadores
+PayU Digicuenta,3.46,1.8,3.5,0.16,3.5,Debito,Agregadores
+Qiubo,3.5,3.5,3.5,0.0,3.5,Debito,Agregadores
+Stripe,3.58,1.2,3.6,0.15,3.6,Debito,Agregadores
+Clip,3.6,2.0,3.6,0.01,3.6,Debito,Agregadores
+Multiva,1.45,1.43,1.59,0.06,1.43,Debito,Aseguradoras
+EVO,1.54,1.15,2.18,0.31,2.05,Debito,Aseguradoras
+Mifel,1.56,1.5,2.5,0.22,1.5,Debito,Aseguradoras
+BBVA Bancomer,1.57,1.15,1.75,0.18,1.75,Debito,Aseguradoras
+Afirme,1.62,1.45,2.3,0.19,1.45,Debito,Aseguradoras
+Getnet,1.63,1.2,3.5,0.23,1.74,Debito,Aseguradoras
+Banorte,1.66,1.2,2.25,0.23,1.57,Debito,Aseguradoras
+Banregio,1.77,1.15,2.55,0.51,2.4,Debito,Aseguradoras
+Fiserv,1.84,1.6,3.0,0.34,1.6,Debito,Aseguradoras
+Inbursa,1.9,1.43,1.9,0.04,1.9,Debito,Aseguradoras
+Autofin,1.9,1.8,2.0,0.1,1.8,Debito,Aseguradoras
+Bajío,2.07,1.5,3.5,0.51,1.6,Debito,Aseguradoras
+Azteca,2.48,2.4,2.5,0.04,2.5,Debito,Aseguradoras
+Mercado Pago,2.74,1.69,3.5,0.83,1.69,Debito,Aseguradoras
+Dlocal,3.2,3.2,3.2,0.0,3.2,Debito,Aseguradoras
+Espiral,3.24,2.99,3.5,0.36,2.99,Debito,Aseguradoras
+Paypal,3.26,2.78,3.65,0.34,3.02,Debito,Aseguradoras
+PayU Digicuenta,3.47,3.0,3.5,0.11,3.5,Debito,Aseguradoras
+Pocket,3.49,2.7,3.5,0.07,3.5,Debito,Aseguradoras
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Aseguradoras
+Stripe,3.59,2.6,3.6,0.1,3.6,Debito,Aseguradoras
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Aseguradoras
+BBVA Bancomer,0.0,0.0,0.0,0.0,0.0,Debito,Beneficencia
+Autofin,0.0,0.0,0.0,0.0,0.0,Debito,Beneficencia
+Multiva,0.0,0.0,0.0,0.0,0.0,Debito,Beneficencia
+Banregio,0.18,0.0,0.8,0.21,0.0,Debito,Beneficencia
+Afirme,0.28,0.0,1.0,0.39,0.0,Debito,Beneficencia
+Azteca,0.35,0.0,1.05,0.52,0.0,Debito,Beneficencia
+Inbursa,0.74,0.1,1.57,0.53,0.36,Debito,Beneficencia
+Banorte,0.74,0.0,2.5,0.55,0.0,Debito,Beneficencia
+Mifel,1.12,0.0,2.5,0.91,1.85,Debito,Beneficencia
+Bajío,1.21,0.01,2.0,0.71,1.2,Debito,Beneficencia
+EVO,1.36,1.3,1.89,0.18,1.3,Debito,Beneficencia
+Fiserv,1.5,1.2,2.35,0.24,1.5,Debito,Beneficencia
+Getnet,1.54,1.15,3.5,0.56,1.18,Debito,Beneficencia
+Bzpay,2.8,2.8,2.8,0.0,2.8,Debito,Beneficencia
+Velpay,3.0,3.0,3.0,0.0,3.0,Debito,Beneficencia
+Espiral,3.33,2.99,3.5,0.29,3.5,Debito,Beneficencia
+PayU Digicuenta,3.46,2.2,3.5,0.19,3.5,Debito,Beneficencia
+Paypal,3.47,2.07,3.65,0.09,3.5,Debito,Beneficencia
+Pocket,3.48,1.69,3.5,0.17,3.5,Debito,Beneficencia
+Stripe,3.6,2.75,3.6,0.03,3.6,Debito,Beneficencia
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Beneficencia
+Intercam Banco,1.2,1.2,1.2,0.0,1.2,Debito,Colegios y universidades
+Inbursa,1.21,0.82,1.35,0.15,1.35,Debito,Colegios y universidades
+Afirme,1.24,0.85,1.65,0.24,1.1,Debito,Colegios y universidades
+BBVA Bancomer,1.28,0.75,1.35,0.13,1.35,Debito,Colegios y universidades
+Banorte,1.31,0.75,1.95,0.28,1.6,Debito,Colegios y universidades
+EVO,1.32,1.15,2.0,0.11,1.3,Debito,Colegios y universidades
+Multiva,1.4,0.75,1.98,0.41,1.58,Debito,Colegios y universidades
+Getnet,1.49,1.15,3.5,0.32,1.42,Debito,Colegios y universidades
+Mifel,1.55,0.95,2.5,0.44,1.4,Debito,Colegios y universidades
+Velpay,1.57,1.25,2.34,0.32,1.5,Debito,Colegios y universidades
+Banregio,1.58,0.85,2.76,0.59,2.15,Debito,Colegios y universidades
+Fiserv,1.73,1.2,2.9,0.34,1.75,Debito,Colegios y universidades
+Autofin,1.8,1.8,1.8,0.0,1.8,Debito,Colegios y universidades
+Bajío,1.92,0.75,4.0,0.67,2.5,Debito,Colegios y universidades
+Bansí,2.0,1.5,2.5,0.71,2.5,Debito,Colegios y universidades
+Azteca,2.23,1.07,2.5,0.38,2.4,Debito,Colegios y universidades
+Pago Fácil,3.0,2.5,3.5,0.5,3.5,Debito,Colegios y universidades
+Paypal,3.01,1.97,3.65,0.81,3.42,Debito,Colegios y universidades
+Espiral,3.24,2.99,3.5,0.27,2.99,Debito,Colegios y universidades
+OEL,3.4,3.4,3.4,0.0,3.4,Debito,Colegios y universidades
+PayU Digicuenta,3.47,2.2,3.5,0.16,3.5,Debito,Colegios y universidades
+Pocket,3.48,1.9,3.5,0.17,3.5,Debito,Colegios y universidades
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Colegios y universidades
+Stripe,3.59,1.79,3.6,0.13,3.6,Debito,Colegios y universidades
+Clip,3.6,3.0,3.6,0.0,3.6,Debito,Colegios y universidades
+Afirme,1.24,0.9,1.65,0.18,1.3,Debito,Comida rápida
+BBVA Bancomer,1.25,0.78,1.35,0.16,1.35,Debito,Comida rápida
+Inbursa,1.42,1.02,1.45,0.08,1.45,Debito,Comida rápida
+EVO,1.49,1.18,3.1,0.1,1.5,Debito,Comida rápida
+Banregio,1.54,0.76,2.9,0.6,2.4,Debito,Comida rápida
+Dlocal,1.58,1.3,1.95,0.33,1.5,Debito,Comida rápida
+Autofin,1.61,0.75,2.1,0.52,1.4,Debito,Comida rápida
+Banorte,1.63,0.75,2.45,0.36,1.99,Debito,Comida rápida
+Multiva,1.68,0.96,2.41,0.4,1.32,Debito,Comida rápida
+Mifel,1.73,0.95,2.5,0.48,2.5,Debito,Comida rápida
+Getnet,1.73,1.15,3.5,0.39,1.65,Debito,Comida rápida
+Smart Payment,1.77,1.45,2.4,0.27,1.6,Debito,Comida rápida
+Intercam Banco,1.81,1.0,2.5,0.43,1.45,Debito,Comida rápida
+Fiserv,1.94,1.15,2.69,0.43,1.55,Debito,Comida rápida
+Velpay,2.0,1.3,3.1,0.56,1.3,Debito,Comida rápida
+Adyen,2.0,1.7,2.3,0.3,1.7,Debito,Comida rápida
+Bzpay,2.03,1.6,3.3,0.39,1.7,Debito,Comida rápida
+Bajío,2.19,0.9,4.0,0.65,2.4,Debito,Comida rápida
+Bansí,2.29,2.2,2.5,0.14,2.2,Debito,Comida rápida
+Azteca,2.46,1.1,2.5,0.17,2.5,Debito,Comida rápida
+OEL,2.95,1.5,3.6,0.61,3.6,Debito,Comida rápida
+Paypal,3.13,3.13,3.13,0.0,3.13,Debito,Comida rápida
+EMS,3.27,1.9,3.95,1.18,3.95,Debito,Comida rápida
+Espiral,3.32,2.99,3.5,0.25,3.5,Debito,Comida rápida
+Pocket,3.4,1.15,3.5,0.41,3.5,Debito,Comida rápida
+Pago Fácil,3.42,3.2,3.5,0.15,3.5,Debito,Comida rápida
+PayU Digicuenta,3.42,2.0,3.5,0.27,3.5,Debito,Comida rápida
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Comida rápida
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Comida rápida
+Clip,3.6,2.0,3.6,0.0,3.6,Debito,Comida rápida
+Banregio,0.72,0.1,1.7,0.55,0.39,Debito,Educación básica
+Inbursa,1.18,0.85,1.35,0.16,1.35,Debito,Educación básica
+EVO,1.33,1.15,2.5,0.09,1.3,Debito,Educación básica
+Getnet,1.52,1.15,3.5,0.42,1.15,Debito,Educación básica
+Mifel,1.68,0.0,2.5,0.64,2.5,Debito,Educación básica
+Fiserv,1.83,1.18,2.9,0.36,1.7,Debito,Educación básica
+Bzpay,1.98,1.19,2.9,0.56,2.2,Debito,Educación básica
+Ebanx,2.2,2.1,2.29,0.1,2.1,Debito,Educación básica
+Azteca,2.32,1.8,2.5,0.26,2.5,Debito,Educación básica
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Educación básica
+EMS,2.8,2.8,2.8,0.0,2.8,Debito,Educación básica
+Espiral,3.28,2.99,3.5,0.27,3.5,Debito,Educación básica
+PayU Digicuenta,3.48,2.7,3.5,0.09,3.5,Debito,Educación básica
+Pocket,3.48,1.2,3.5,0.18,3.5,Debito,Educación básica
+Paypal,3.5,1.92,3.65,0.07,3.5,Debito,Educación básica
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Educación básica
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Educación básica
+Stripe,3.6,2.55,3.6,0.02,3.6,Debito,Educación básica
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Educación básica
+Intercam Banco,1.37,1.19,2.0,0.29,1.2,Debito,Entretenimiento
+EVO,1.45,1.15,2.15,0.15,1.45,Debito,Entretenimiento
+Autofin,1.53,1.38,1.6,0.13,1.6,Debito,Entretenimiento
+Getnet,1.55,1.15,3.5,0.34,1.54,Debito,Entretenimiento
+BBVA Bancomer,1.58,1.1,1.7,0.17,1.7,Debito,Entretenimiento
+Afirme,1.58,1.1,3.15,0.35,1.8,Debito,Entretenimiento
+Banregio,1.59,1.1,2.66,0.57,1.19,Debito,Entretenimiento
+Inbursa,1.66,1.2,1.7,0.08,1.7,Debito,Entretenimiento
+Banorte,1.69,1.1,2.3,0.28,2.0,Debito,Entretenimiento
+Multiva,1.71,1.27,2.12,0.25,2.0,Debito,Entretenimiento
+Fiserv,1.72,1.19,3.0,0.31,1.6,Debito,Entretenimiento
+Adyen,1.83,1.55,2.1,0.39,2.1,Debito,Entretenimiento
+Mifel,1.87,1.2,2.5,0.43,2.5,Debito,Entretenimiento
+Ebanx,2.0,2.0,2.0,0.0,2.0,Debito,Entretenimiento
+Azteca,2.06,1.38,2.5,0.41,1.6,Debito,Entretenimiento
+Bzpay,2.08,1.68,2.8,0.37,2.0,Debito,Entretenimiento
+Velpay,2.3,2.3,2.3,0.0,2.3,Debito,Entretenimiento
+Bajío,2.32,1.14,4.0,0.59,2.7,Debito,Entretenimiento
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Entretenimiento
+Mercado Pago,2.9,1.2,3.5,0.77,3.49,Debito,Entretenimiento
+Smart Payment,2.95,2.95,2.95,0.0,2.95,Debito,Entretenimiento
+EMS,3.23,1.6,3.95,1.06,3.95,Debito,Entretenimiento
+Espiral,3.26,2.99,3.5,0.26,3.5,Debito,Entretenimiento
+Pago Fácil,3.39,3.0,3.5,0.22,3.5,Debito,Entretenimiento
+Pocket,3.45,1.15,3.5,0.26,3.5,Debito,Entretenimiento
+PayU Digicuenta,3.46,1.8,3.5,0.16,3.5,Debito,Entretenimiento
+Paypal,3.49,1.6,3.65,0.08,3.5,Debito,Entretenimiento
+Cyborgbeat,3.5,3.5,3.5,0.0,3.5,Debito,Entretenimiento
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Entretenimiento
+Stripe,3.58,1.2,3.6,0.16,3.6,Debito,Entretenimiento
+Clip,3.6,2.8,3.6,0.01,3.6,Debito,Entretenimiento
+EVO,1.4,1.2,1.9,0.2,1.25,Debito,Estacionamientos
+Multiva,1.46,1.2,1.95,0.25,1.35,Debito,Estacionamientos
+BBVA Bancomer,1.55,1.12,1.6,0.13,1.6,Debito,Estacionamientos
+Banregio,1.65,1.25,2.4,0.48,1.25,Debito,Estacionamientos
+Inbursa,1.69,1.5,1.75,0.09,1.75,Debito,Estacionamientos
+Getnet,1.77,1.44,3.5,0.45,1.55,Debito,Estacionamientos
+Banorte,1.78,1.3,2.7,0.29,1.95,Debito,Estacionamientos
+Afirme,1.85,1.8,1.9,0.07,1.8,Debito,Estacionamientos
+Mifel,2.17,1.5,2.5,0.58,2.5,Debito,Estacionamientos
+Fiserv,2.18,1.41,2.86,0.53,2.3,Debito,Estacionamientos
+EMS,2.23,2.23,2.23,0.0,2.23,Debito,Estacionamientos
+Bajío,2.39,1.35,3.4,0.47,2.4,Debito,Estacionamientos
+Azteca,2.47,2.4,2.5,0.05,2.5,Debito,Estacionamientos
+PayU Digicuenta,2.68,2.2,3.0,0.43,3.0,Debito,Estacionamientos
+OEL,3.3,3.0,3.5,0.27,3.5,Debito,Estacionamientos
+Pocket,3.5,3.5,3.5,0.0,3.5,Debito,Estacionamientos
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Estacionamientos
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Estacionamientos
+BBVA Bancomer,1.39,1.0,1.6,0.19,1.6,Debito,Farmacias
+Getnet,1.54,1.15,3.5,0.39,1.49,Debito,Farmacias
+Banorte,1.56,1.0,2.2,0.27,1.4,Debito,Farmacias
+Multiva,1.58,1.2,2.02,0.28,1.35,Debito,Farmacias
+EVO,1.58,1.15,2.71,0.14,1.6,Debito,Farmacias
+Inbursa,1.59,1.0,1.75,0.19,1.75,Debito,Farmacias
+Velpay,1.59,1.3,3.0,0.69,1.3,Debito,Farmacias
+Afirme,1.65,1.15,3.15,0.28,1.8,Debito,Farmacias
+Banregio,1.66,1.0,2.62,0.45,2.2,Debito,Farmacias
+Mifel,1.68,1.1,2.5,0.49,2.5,Debito,Farmacias
+Autofin,1.85,1.5,2.3,0.36,1.6,Debito,Farmacias
+Bzpay,1.86,1.4,2.3,0.18,1.8,Debito,Farmacias
+Adyen,2.0,2.0,2.0,0.0,2.0,Debito,Farmacias
+Fiserv,2.02,1.15,2.75,0.33,2.06,Debito,Farmacias
+Intercam Banco,2.08,1.19,2.3,0.34,2.3,Debito,Farmacias
+Bajío,2.27,1.03,4.0,0.63,2.7,Debito,Farmacias
+Azteca,2.39,1.2,2.5,0.31,2.5,Debito,Farmacias
+Pago Fácil,2.9,2.9,2.9,0.0,2.9,Debito,Farmacias
+EMS,3.13,2.0,3.95,0.58,3.95,Debito,Farmacias
+Pocket,3.26,1.15,3.5,0.64,3.5,Debito,Farmacias
+Paypal,3.31,2.84,3.65,0.31,3.42,Debito,Farmacias
+Espiral,3.32,2.99,3.5,0.25,3.5,Debito,Farmacias
+PayU Digicuenta,3.37,1.99,3.5,0.28,3.5,Debito,Farmacias
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Farmacias
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Farmacias
+Clip,3.6,3.2,3.6,0.0,3.6,Debito,Farmacias
+Afirme,0.7,0.5,0.8,0.07,0.69,Debito,Gasolineras
+Banorte,0.76,0.45,0.85,0.11,0.8,Debito,Gasolineras
+BBVA Bancomer,0.77,0.45,0.8,0.06,0.8,Debito,Gasolineras
+Autofin,0.8,0.8,0.8,0.0,0.8,Debito,Gasolineras
+Inbursa,0.83,0.45,1.0,0.06,0.85,Debito,Gasolineras
+Intercam Banco,0.9,0.8,1.1,0.17,0.8,Debito,Gasolineras
+Mifel,0.91,0.45,2.5,0.36,0.8,Debito,Gasolineras
+Banregio,1.02,0.45,2.3,0.51,0.65,Debito,Gasolineras
+Bajío,1.03,0.5,3.8,0.51,0.55,Debito,Gasolineras
+Multiva,1.11,0.5,2.75,0.46,0.8,Debito,Gasolineras
+EVO,1.27,1.16,1.55,0.18,1.16,Debito,Gasolineras
+Fiserv,1.4,1.15,3.0,0.38,1.15,Debito,Gasolineras
+Getnet,1.56,1.15,3.5,0.37,1.15,Debito,Gasolineras
+Smart Payment,1.7,1.7,1.7,0.0,1.7,Debito,Gasolineras
+Azteca,1.87,0.9,2.5,0.57,2.5,Debito,Gasolineras
+Bzpay,1.96,1.7,2.15,0.17,2.0,Debito,Gasolineras
+EMS,2.36,1.2,3.95,0.88,1.85,Debito,Gasolineras
+Pocket,3.29,1.4,3.5,0.64,3.5,Debito,Gasolineras
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Debito,Gasolineras
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Gasolineras
+Multiva,0.97,0.9,1.0,0.06,1.0,Debito,Gobierno
+Inbursa,1.13,1.0,1.26,0.18,1.0,Debito,Gobierno
+Banorte,1.15,0.75,1.95,0.26,1.01,Debito,Gobierno
+Afirme,1.18,0.85,1.65,0.23,1.05,Debito,Gobierno
+Bajío,1.21,0.75,2.1,0.34,0.9,Debito,Gobierno
+BBVA Bancomer,1.22,0.75,1.35,0.17,1.35,Debito,Gobierno
+EVO,1.3,1.15,1.9,0.07,1.3,Debito,Gobierno
+Mifel,1.34,1.06,2.5,0.42,1.2,Debito,Gobierno
+Getnet,1.34,1.15,3.5,0.22,1.21,Debito,Gobierno
+Banregio,1.41,0.75,2.71,0.47,1.45,Debito,Gobierno
+Fiserv,1.54,1.15,2.2,0.29,1.55,Debito,Gobierno
+Azteca,1.65,1.11,2.0,0.24,1.5,Debito,Gobierno
+Paypal,2.02,1.97,2.2,0.1,1.97,Debito,Gobierno
+Xaldo,2.55,2.35,2.7,0.18,2.7,Debito,Gobierno
+Velpay,3.0,3.0,3.0,0.0,3.0,Debito,Gobierno
+Espiral,3.26,2.99,3.5,0.26,3.5,Debito,Gobierno
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Gobierno
+PayU Digicuenta,3.5,2.87,3.5,0.05,3.5,Debito,Gobierno
+Pocket,3.5,3.5,3.5,0.0,3.5,Debito,Gobierno
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Gobierno
+EVO,1.4,1.15,2.3,0.2,1.28,Debito,Hospitales
+Autofin,1.6,1.6,1.6,0.0,1.6,Debito,Hospitales
+Multiva,1.6,1.15,2.17,0.31,1.35,Debito,Hospitales
+Azteca,1.61,1.3,2.5,0.44,1.3,Debito,Hospitales
+BBVA Bancomer,1.65,1.15,1.75,0.16,1.75,Debito,Hospitales
+Bzpay,1.65,1.65,1.65,0.0,1.65,Debito,Hospitales
+Afirme,1.66,1.2,2.85,0.34,1.4,Debito,Hospitales
+Banorte,1.67,1.15,2.25,0.3,2.0,Debito,Hospitales
+Bansí,1.73,1.25,2.5,0.6,1.25,Debito,Hospitales
+Intercam Banco,1.74,1.37,2.2,0.34,1.7,Debito,Hospitales
+Getnet,1.74,1.15,3.5,0.34,1.6,Debito,Hospitales
+Inbursa,1.79,1.25,1.9,0.17,1.9,Debito,Hospitales
+Mifel,1.84,1.2,2.5,0.42,2.5,Debito,Hospitales
+Banregio,1.84,1.15,2.83,0.46,2.35,Debito,Hospitales
+Fiserv,1.98,1.22,3.0,0.37,2.11,Debito,Hospitales
+Banjército,2.0,2.0,2.0,0.0,2.0,Debito,Hospitales
+Bajío,2.15,1.2,4.0,0.6,2.4,Debito,Hospitales
+Pocket,3.43,1.29,3.5,0.34,3.5,Debito,Hospitales
+PayU Digicuenta,3.47,2.87,3.5,0.12,3.5,Debito,Hospitales
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Hospitales
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Hospitales
+Clip,3.6,3.6,3.6,0.0,3.6,Debito,Hospitales
+EMS,3.95,3.95,3.95,0.0,3.95,Debito,Hospitales
+EVO,1.33,1.15,2.17,0.16,1.2,Debito,Hoteles
+BBVA Bancomer,1.59,1.1,1.7,0.18,1.7,Debito,Hoteles
+Banorte,1.6,1.1,2.3,0.3,2.0,Debito,Hoteles
+Inbursa,1.66,1.15,1.7,0.08,1.7,Debito,Hoteles
+Afirme,1.68,1.1,3.15,0.33,1.5,Debito,Hoteles
+Multiva,1.7,1.1,2.12,0.26,1.5,Debito,Hoteles
+Getnet,1.71,1.15,3.5,0.36,1.53,Debito,Hoteles
+Mifel,1.87,1.1,2.5,0.46,2.5,Debito,Hoteles
+Fiserv,1.89,1.25,3.0,0.35,2.05,Debito,Hoteles
+Banregio,1.91,1.1,3.15,0.61,2.5,Debito,Hoteles
+Intercam Banco,1.97,1.1,2.5,0.42,2.5,Debito,Hoteles
+Banjército,2.11,1.75,2.81,0.45,1.8,Debito,Hoteles
+Bzpay,2.16,1.19,2.8,0.6,2.8,Debito,Hoteles
+Bajío,2.17,1.1,4.0,0.53,2.4,Debito,Hoteles
+Autofin,2.3,2.0,2.6,0.42,2.6,Debito,Hoteles
+Smart Payment,2.32,1.28,2.65,0.58,2.65,Debito,Hoteles
+Azteca,2.35,1.63,2.5,0.24,2.5,Debito,Hoteles
+EMS,2.37,2.05,3.0,0.55,2.05,Debito,Hoteles
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Hoteles
+Mercado Pago,2.77,1.25,3.5,0.82,1.69,Debito,Hoteles
+Espiral,3.26,2.99,3.5,0.26,3.5,Debito,Hoteles
+PayU Digicuenta,3.35,2.39,3.5,0.37,3.5,Debito,Hoteles
+Paypal,3.4,2.4,3.65,0.3,3.5,Debito,Hoteles
+Pocket,3.44,1.24,3.5,0.29,3.5,Debito,Hoteles
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Hoteles
+Stripe,3.58,1.78,3.6,0.17,3.6,Debito,Hoteles
+Clip,3.6,2.8,3.6,0.01,3.6,Debito,Hoteles
+Banregio,1.02,0.0,2.15,0.62,0.45,Debito,Misceláneas
+Bansí,1.31,1.15,2.5,0.22,1.27,Debito,Misceláneas
+Mifel,1.36,0.0,2.5,0.73,2.5,Debito,Misceláneas
+Azteca,1.43,0.0,2.5,0.64,1.03,Debito,Misceláneas
+EVO,1.47,1.15,2.59,0.16,1.4,Debito,Misceláneas
+Getnet,1.75,1.15,3.5,0.5,1.3,Debito,Misceláneas
+Bzpay,2.03,1.15,2.85,0.55,1.9,Debito,Misceláneas
+Velpay,2.1,1.3,2.9,1.13,2.9,Debito,Misceláneas
+Fiserv,2.2,1.15,3.0,0.47,2.6,Debito,Misceláneas
+Inbursa,2.23,0.0,2.4,0.29,2.4,Debito,Misceláneas
+Adyen,2.33,2.33,2.33,0.0,2.33,Debito,Misceláneas
+Smart Payment,2.6,2.6,2.6,0.0,2.6,Debito,Misceláneas
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Debito,Misceláneas
+EMS,2.97,1.6,3.95,0.73,3.95,Debito,Misceláneas
+OEL,3.31,2.5,3.7,0.48,2.5,Debito,Misceláneas
+Espiral,3.37,2.99,3.5,0.22,3.5,Debito,Misceláneas
+Pocket,3.47,1.15,3.5,0.25,3.5,Debito,Misceláneas
+PayU Digicuenta,3.48,2.9,3.5,0.11,3.5,Debito,Misceláneas
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Misceláneas
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Misceláneas
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Misceláneas
+Clip,3.6,3.0,3.6,0.0,3.6,Debito,Misceláneas
+Paypal,3.65,3.65,3.65,0.0,3.65,Debito,Misceláneas
+Banregio,0.85,0.02,1.7,0.56,1.7,Debito,Médicos y dentistas
+EVO,1.43,1.15,2.59,0.22,1.4,Debito,Médicos y dentistas
+Mifel,1.73,0.0,2.5,0.64,1.95,Debito,Médicos y dentistas
+Fiserv,1.73,1.15,3.0,0.36,1.55,Debito,Médicos y dentistas
+Inbursa,1.79,0.0,1.9,0.18,1.9,Debito,Médicos y dentistas
+Getnet,1.89,1.15,3.5,0.61,1.5,Debito,Médicos y dentistas
+Bzpay,2.07,1.35,3.0,0.49,1.8,Debito,Médicos y dentistas
+Velpay,2.15,1.15,2.9,0.53,1.8,Debito,Médicos y dentistas
+Bansí,2.39,1.15,2.5,0.38,2.5,Debito,Médicos y dentistas
+Azteca,2.4,0.0,2.5,0.35,2.5,Debito,Médicos y dentistas
+Mercado Pago,2.77,1.25,3.5,0.82,1.69,Debito,Médicos y dentistas
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Debito,Médicos y dentistas
+Espiral,3.25,2.99,3.5,0.26,3.5,Debito,Médicos y dentistas
+EMS,3.35,1.99,3.95,0.76,3.95,Debito,Médicos y dentistas
+PayU Digicuenta,3.46,2.4,3.5,0.16,3.5,Debito,Médicos y dentistas
+Pocket,3.48,1.25,3.5,0.17,3.5,Debito,Médicos y dentistas
+Paypal,3.5,2.9,3.5,0.01,3.5,Debito,Médicos y dentistas
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Médicos y dentistas
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Médicos y dentistas
+Stripe,3.6,2.4,3.6,0.07,3.6,Debito,Médicos y dentistas
+Clip,3.6,2.7,3.6,0.0,3.6,Debito,Médicos y dentistas
+EVO,1.63,1.15,3.46,0.18,1.6,Debito,Otros
+BBVA Bancomer,1.66,1.15,1.75,0.16,1.75,Debito,Otros
+Getnet,1.76,1.15,3.5,0.42,1.58,Debito,Otros
+Afirme,1.8,1.15,3.15,0.26,1.8,Debito,Otros
+Banorte,1.86,1.15,2.65,0.36,2.0,Debito,Otros
+Autofin,1.91,1.15,2.9,0.49,1.7,Debito,Otros
+Inbursa,1.94,1.15,2.14,0.23,2.14,Debito,Otros
+Banregio,2.0,1.15,2.99,0.55,2.55,Debito,Otros
+Multiva,2.0,1.15,2.9,0.46,1.9,Debito,Otros
+Intercam Banco,2.03,1.19,2.5,0.33,2.0,Debito,Otros
+Mifel,2.04,1.15,2.5,0.41,2.5,Debito,Otros
+Fiserv,2.04,1.2,3.0,0.5,1.2,Debito,Otros
+Banjército,2.09,1.65,4.0,0.5,1.8,Debito,Otros
+Adyen,2.2,1.85,2.52,0.22,2.25,Debito,Otros
+Bzpay,2.31,1.5,2.95,0.38,2.7,Debito,Otros
+Ebanx,2.37,1.72,2.88,0.35,2.1,Debito,Otros
+Azteca,2.39,1.18,2.79,0.12,2.4,Debito,Otros
+Dlocal,2.42,2.0,2.9,0.45,2.0,Debito,Otros
+Velpay,2.45,1.49,3.4,0.57,2.5,Debito,Otros
+Bajío,2.46,1.15,4.0,0.54,2.9,Debito,Otros
+Cyborgbeat,2.83,1.9,3.6,0.39,2.5,Debito,Otros
+Mercado Pago,2.84,1.2,3.69,0.79,3.49,Debito,Otros
+Pago Fácil,2.85,2.4,3.5,0.52,2.4,Debito,Otros
+EMS,2.99,1.55,3.95,0.63,3.95,Debito,Otros
+OEL,3.11,2.99,3.5,0.21,3.0,Debito,Otros
+Espiral,3.22,2.99,3.5,0.25,2.99,Debito,Otros
+PayU Digicuenta,3.47,1.87,3.5,0.14,3.5,Debito,Otros
+Pocket,3.47,1.19,3.5,0.2,3.5,Debito,Otros
+Paypal,3.5,1.2,3.65,0.02,3.5,Debito,Otros
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Otros
+Stripe,3.58,1.6,3.6,0.15,3.6,Debito,Otros
+Clip,3.6,2.0,3.6,0.0,3.6,Debito,Otros
+Inbursa,1.25,1.25,1.75,0.04,1.25,Debito,Peaje
+BBVA Bancomer,1.3,1.2,1.6,0.1,1.25,Debito,Peaje
+Afirme,1.51,1.5,1.7,0.03,1.5,Debito,Peaje
+EVO,1.52,1.5,1.55,0.02,1.5,Debito,Peaje
+Getnet,1.71,1.2,2.35,0.31,1.98,Debito,Peaje
+Banorte,1.72,1.4,2.62,0.39,1.4,Debito,Peaje
+Fiserv,1.85,1.85,1.85,0.0,1.85,Debito,Peaje
+Banregio,2.19,1.62,2.3,0.28,2.3,Debito,Peaje
+Bzpay,2.8,2.8,2.8,0.0,2.8,Debito,Peaje
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Debito,Peaje
+Pocket,3.5,3.5,3.5,0.0,3.5,Debito,Peaje
+Banregio,0.72,0.0,1.7,0.53,1.7,Debito,Refacciones y ferreterías
+Mifel,1.13,0.0,2.5,0.69,1.1,Debito,Refacciones y ferreterías
+Velpay,1.46,1.43,1.5,0.04,1.43,Debito,Refacciones y ferreterías
+Bzpay,1.47,1.15,2.29,0.38,1.19,Debito,Refacciones y ferreterías
+EVO,1.49,1.15,2.65,0.17,1.4,Debito,Refacciones y ferreterías
+Getnet,1.74,1.15,3.5,0.51,1.5,Debito,Refacciones y ferreterías
+Inbursa,1.81,0.0,1.9,0.18,1.9,Debito,Refacciones y ferreterías
+Fiserv,1.93,1.15,3.0,0.44,2.1,Debito,Refacciones y ferreterías
+Azteca,2.42,0.0,2.5,0.36,2.5,Debito,Refacciones y ferreterías
+Adyen,2.45,2.3,2.54,0.13,2.5,Debito,Refacciones y ferreterías
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Refacciones y ferreterías
+EMS,2.58,1.2,3.95,0.95,2.45,Debito,Refacciones y ferreterías
+Mercado Pago,2.77,1.25,3.5,0.83,1.69,Debito,Refacciones y ferreterías
+Cyborgbeat,2.9,2.9,2.9,0.0,2.9,Debito,Refacciones y ferreterías
+Espiral,3.27,2.99,3.5,0.26,3.5,Debito,Refacciones y ferreterías
+Paypal,3.37,3.0,3.65,0.3,3.65,Debito,Refacciones y ferreterías
+Pocket,3.4,1.18,3.5,0.38,3.5,Debito,Refacciones y ferreterías
+PayU Digicuenta,3.45,2.7,3.5,0.16,3.5,Debito,Refacciones y ferreterías
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Refacciones y ferreterías
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Refacciones y ferreterías
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Refacciones y ferreterías
+Clip,3.6,2.4,3.6,0.03,3.6,Debito,Refacciones y ferreterías
+Multiva,1.43,1.25,1.69,0.17,1.25,Debito,Renta de autos
+EVO,1.43,1.16,2.0,0.18,1.35,Debito,Renta de autos
+Getnet,1.61,1.15,3.5,0.22,1.63,Debito,Renta de autos
+BBVA Bancomer,1.62,1.1,1.7,0.12,1.7,Debito,Renta de autos
+Inbursa,1.63,1.24,1.7,0.1,1.7,Debito,Renta de autos
+Banorte,1.67,1.15,2.3,0.27,1.95,Debito,Renta de autos
+Bansí,1.71,1.71,1.71,0.0,1.71,Debito,Renta de autos
+Bzpay,1.85,1.85,1.85,0.0,1.85,Debito,Renta de autos
+Mifel,1.93,1.2,2.5,0.38,1.72,Debito,Renta de autos
+Afirme,1.93,1.5,2.8,0.36,1.7,Debito,Renta de autos
+Banregio,1.96,1.1,3.0,0.53,2.5,Debito,Renta de autos
+Fiserv,2.09,1.3,3.0,0.33,2.26,Debito,Renta de autos
+Autofin,2.1,2.1,2.1,0.0,2.1,Debito,Renta de autos
+Intercam Banco,2.19,1.7,2.5,0.29,2.5,Debito,Renta de autos
+Bajío,2.22,1.2,3.4,0.52,2.4,Debito,Renta de autos
+Azteca,2.45,2.4,2.5,0.05,2.4,Debito,Renta de autos
+Cyborgbeat,2.8,2.8,2.8,0.0,2.8,Debito,Renta de autos
+EMS,3.0,3.0,3.0,0.0,3.0,Debito,Renta de autos
+Espiral,3.31,2.99,3.5,0.26,3.5,Debito,Renta de autos
+PayU Digicuenta,3.5,3.5,3.5,0.0,3.5,Debito,Renta de autos
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Renta de autos
+Pocket,3.5,3.2,3.5,0.02,3.5,Debito,Renta de autos
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Renta de autos
+Clip,3.6,2.6,3.6,0.03,3.6,Debito,Renta de autos
+EVO,1.55,1.15,3.46,0.15,1.5,Debito,Restaurantes
+BBVA Bancomer,1.65,1.15,1.75,0.16,1.75,Debito,Restaurantes
+Afirme,1.68,1.2,2.5,0.29,1.8,Debito,Restaurantes
+Inbursa,1.75,1.19,2.0,0.22,2.0,Debito,Restaurantes
+Multiva,1.78,1.15,2.5,0.32,1.5,Debito,Restaurantes
+Getnet,1.78,1.15,3.5,0.37,1.65,Debito,Restaurantes
+Banorte,1.8,1.15,2.65,0.33,1.99,Debito,Restaurantes
+Smart Payment,1.83,1.45,2.65,0.34,1.7,Debito,Restaurantes
+Mifel,1.85,1.15,2.5,0.46,2.5,Debito,Restaurantes
+Intercam Banco,1.94,1.19,2.2,0.28,2.2,Debito,Restaurantes
+Banregio,2.02,1.15,3.2,0.59,2.55,Debito,Restaurantes
+Adyen,2.12,1.75,2.45,0.34,1.75,Debito,Restaurantes
+Fiserv,2.17,1.25,3.0,0.28,2.14,Debito,Restaurantes
+Autofin,2.25,1.15,2.8,0.4,1.8,Debito,Restaurantes
+Bansí,2.3,1.25,2.5,0.45,2.5,Debito,Restaurantes
+Bajío,2.32,1.15,4.0,0.55,2.7,Debito,Restaurantes
+Banjército,2.35,1.5,5.39,0.79,1.8,Debito,Restaurantes
+Bzpay,2.36,1.45,3.1,0.43,2.5,Debito,Restaurantes
+Velpay,2.36,2.1,3.2,0.27,2.45,Debito,Restaurantes
+Azteca,2.43,1.6,2.5,0.12,2.5,Debito,Restaurantes
+Cyborgbeat,2.5,2.5,2.5,0.0,2.5,Debito,Restaurantes
+Mercado Pago,2.76,1.25,3.5,0.83,1.69,Debito,Restaurantes
+OEL,2.86,1.45,3.6,0.53,2.8,Debito,Restaurantes
+EMS,2.91,1.6,3.95,0.86,3.95,Debito,Restaurantes
+Espiral,3.27,2.99,3.5,0.25,3.5,Debito,Restaurantes
+Pocket,3.38,1.22,3.5,0.41,3.5,Debito,Restaurantes
+Paypal,3.5,2.32,3.5,0.0,3.5,Debito,Restaurantes
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Restaurantes
+PayU Digicuenta,3.5,3.0,3.5,0.04,3.5,Debito,Restaurantes
+Stripe,3.6,2.2,3.6,0.04,3.6,Debito,Restaurantes
+Clip,3.6,2.4,3.6,0.01,3.6,Debito,Restaurantes
+Banregio,0.81,0.03,1.9,0.6,0.44,Debito,Salones de belleza
+EVO,1.5,1.15,2.59,0.18,1.4,Debito,Salones de belleza
+Inbursa,1.82,0.0,1.9,0.16,1.9,Debito,Salones de belleza
+Mifel,1.86,0.0,2.5,0.45,1.9,Debito,Salones de belleza
+Fiserv,1.93,1.19,3.0,0.37,1.85,Debito,Salones de belleza
+Getnet,1.98,1.15,3.5,0.59,1.5,Debito,Salones de belleza
+Velpay,2.0,2.0,2.0,0.0,2.0,Debito,Salones de belleza
+Bzpay,2.14,1.2,3.0,0.64,1.85,Debito,Salones de belleza
+Azteca,2.24,0.0,2.5,0.69,2.5,Debito,Salones de belleza
+Adyen,2.35,2.35,2.35,0.0,2.35,Debito,Salones de belleza
+Bansí,2.5,2.5,2.5,0.0,2.5,Debito,Salones de belleza
+Mercado Pago,2.8,1.25,3.5,0.81,1.69,Debito,Salones de belleza
+Espiral,3.24,2.99,3.5,0.28,3.5,Debito,Salones de belleza
+EMS,3.44,1.95,3.95,0.84,3.95,Debito,Salones de belleza
+Pocket,3.47,1.24,3.5,0.22,3.5,Debito,Salones de belleza
+PayU Digicuenta,3.48,2.1,3.5,0.12,3.5,Debito,Salones de belleza
+Paypal,3.5,3.42,3.5,0.0,3.5,Debito,Salones de belleza
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Salones de belleza
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Salones de belleza
+Stripe,3.59,1.2,3.6,0.17,3.6,Debito,Salones de belleza
+Clip,3.6,3.0,3.6,0.0,3.6,Debito,Salones de belleza
+BBVA Bancomer,1.45,1.1,1.7,0.21,1.7,Debito,Supermercados
+Afirme,1.51,1.2,2.9,0.23,1.55,Debito,Supermercados
+Banorte,1.55,1.1,2.5,0.33,1.35,Debito,Supermercados
+EVO,1.57,1.16,3.46,0.32,1.6,Debito,Supermercados
+Mifel,1.62,1.2,2.5,0.4,1.5,Debito,Supermercados
+Banregio,1.75,1.15,2.96,0.58,2.5,Debito,Supermercados
+Getnet,1.78,1.15,3.5,0.46,2.28,Debito,Supermercados
+Inbursa,1.79,1.18,1.8,0.06,1.8,Debito,Supermercados
+Multiva,1.85,1.2,2.4,0.41,2.4,Debito,Supermercados
+Azteca,1.95,1.15,2.5,0.16,1.95,Debito,Supermercados
+Fiserv,1.95,1.29,2.95,0.53,1.35,Debito,Supermercados
+Bajío,2.08,1.1,3.4,0.49,2.4,Debito,Supermercados
+Adyen,2.08,1.75,2.27,0.29,2.23,Debito,Supermercados
+Banjército,2.09,1.5,3.5,0.48,1.8,Debito,Supermercados
+Bzpay,2.25,1.66,2.6,0.4,2.45,Debito,Supermercados
+EMS,2.43,1.35,3.0,0.66,2.9,Debito,Supermercados
+Mercado Pago,2.79,1.25,3.5,0.81,1.69,Debito,Supermercados
+Velpay,3.0,3.0,3.0,0.0,3.0,Debito,Supermercados
+Paypal,3.05,1.74,3.65,0.66,3.42,Debito,Supermercados
+Espiral,3.37,2.99,3.5,0.25,3.5,Debito,Supermercados
+Pocket,3.42,1.27,3.5,0.34,3.5,Debito,Supermercados
+PayU Digicuenta,3.44,1.99,3.5,0.22,3.5,Debito,Supermercados
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Supermercados
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Supermercados
+Clip,3.6,2.4,3.6,0.01,3.6,Debito,Supermercados
+BBVA Bancomer,1.32,1.15,1.75,0.19,1.2,Debito,Telecomunicaciones
+Azteca,1.35,1.23,2.5,0.25,1.28,Debito,Telecomunicaciones
+Banorte,1.39,1.2,2.33,0.26,1.25,Debito,Telecomunicaciones
+Getnet,1.55,1.18,3.5,0.17,1.5,Debito,Telecomunicaciones
+EVO,1.57,1.16,1.95,0.06,1.57,Debito,Telecomunicaciones
+Afirme,1.61,1.5,1.9,0.16,1.5,Debito,Telecomunicaciones
+Bzpay,1.62,1.62,1.62,0.0,1.62,Debito,Telecomunicaciones
+Inbursa,1.7,1.22,1.86,0.03,1.7,Debito,Telecomunicaciones
+Banregio,1.79,1.25,2.7,0.49,1.3,Debito,Telecomunicaciones
+Mifel,1.87,1.55,2.5,0.55,1.55,Debito,Telecomunicaciones
+Fiserv,1.89,1.15,2.69,0.6,1.15,Debito,Telecomunicaciones
+Autofin,2.1,2.1,2.1,0.0,2.1,Debito,Telecomunicaciones
+Adyen,2.2,2.05,2.35,0.21,2.35,Debito,Telecomunicaciones
+Bajío,2.53,1.6,3.0,0.31,2.4,Debito,Telecomunicaciones
+Espiral,3.17,2.99,3.5,0.25,2.99,Debito,Telecomunicaciones
+Paypal,3.18,2.43,3.65,0.46,3.42,Debito,Telecomunicaciones
+EMS,3.2,3.2,3.2,0.0,3.2,Debito,Telecomunicaciones
+PayU Digicuenta,3.48,2.25,3.5,0.11,3.5,Debito,Telecomunicaciones
+Pocket,3.48,1.75,3.5,0.14,3.5,Debito,Telecomunicaciones
+OEL,3.5,3.5,3.5,0.0,3.5,Debito,Telecomunicaciones
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Telecomunicaciones
+Stripe,3.58,2.19,3.6,0.17,3.6,Debito,Telecomunicaciones
+Inbursa,1.02,1.0,1.05,0.02,1.0,Debito,Transporte aéreo
+Mifel,1.05,1.05,1.05,0.0,1.05,Debito,Transporte aéreo
+Intercam Banco,1.2,1.2,1.2,0.0,1.2,Debito,Transporte aéreo
+BBVA Bancomer,1.26,0.75,1.35,0.16,1.35,Debito,Transporte aéreo
+EVO,1.39,1.15,2.09,0.25,1.15,Debito,Transporte aéreo
+Getnet,1.4,1.15,3.5,0.34,1.17,Debito,Transporte aéreo
+Banorte,1.42,0.84,1.9,0.29,1.45,Debito,Transporte aéreo
+Multiva,1.77,1.77,1.77,0.0,1.77,Debito,Transporte aéreo
+Afirme,1.85,1.3,2.3,0.24,1.8,Debito,Transporte aéreo
+Banregio,1.9,0.85,2.71,0.61,2.3,Debito,Transporte aéreo
+Adyen,2.12,1.95,2.3,0.25,1.95,Debito,Transporte aéreo
+Bzpay,2.13,1.66,2.6,0.54,2.6,Debito,Transporte aéreo
+Fiserv,2.26,2.21,2.31,0.05,2.21,Debito,Transporte aéreo
+Bajío,2.33,1.2,2.9,0.44,2.4,Debito,Transporte aéreo
+Azteca,2.48,2.4,2.5,0.05,2.5,Debito,Transporte aéreo
+Paypal,3.03,1.74,3.65,0.69,3.65,Debito,Transporte aéreo
+EMS,3.05,2.9,3.2,0.21,3.2,Debito,Transporte aéreo
+Espiral,3.24,2.99,3.5,0.26,2.99,Debito,Transporte aéreo
+Pocket,3.39,1.77,3.5,0.4,3.5,Debito,Transporte aéreo
+PayU Digicuenta,3.46,2.6,3.5,0.16,3.5,Debito,Transporte aéreo
+Pago Fácil,3.5,3.5,3.5,0.0,3.5,Debito,Transporte aéreo
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Transporte aéreo
+Stripe,3.6,3.6,3.6,0.0,3.6,Debito,Transporte aéreo
+EVO,1.57,1.15,3.5,0.2,1.6,Debito,Ventas al detalle (Retail)
+BBVA Bancomer,1.59,1.15,1.75,0.2,1.75,Debito,Ventas al detalle (Retail)
+Getnet,1.73,1.15,3.5,0.43,1.6,Debito,Ventas al detalle (Retail)
+Afirme,1.77,1.15,3.15,0.27,1.8,Debito,Ventas al detalle (Retail)
+Banorte,1.79,1.15,2.65,0.37,2.0,Debito,Ventas al detalle (Retail)
+Mifel,1.85,1.15,2.5,0.46,2.5,Debito,Ventas al detalle (Retail)
+Autofin,1.89,1.15,2.64,0.44,1.25,Debito,Ventas al detalle (Retail)
+Fiserv,1.89,1.15,3.0,0.47,2.25,Debito,Ventas al detalle (Retail)
+Smart Payment,1.89,1.5,2.25,0.31,1.5,Debito,Ventas al detalle (Retail)
+Multiva,1.93,1.15,2.64,0.42,2.5,Debito,Ventas al detalle (Retail)
+Intercam Banco,1.99,1.17,2.9,0.49,2.5,Debito,Ventas al detalle (Retail)
+Banregio,2.06,1.15,2.99,0.57,2.55,Debito,Ventas al detalle (Retail)
+Inbursa,2.17,1.15,2.45,0.36,2.45,Debito,Ventas al detalle (Retail)
+Adyen,2.17,1.3,2.55,0.32,2.5,Debito,Ventas al detalle (Retail)
+Azteca,2.26,1.15,2.4,0.31,2.4,Debito,Ventas al detalle (Retail)
+Ebanx,2.3,2.3,2.3,0.0,2.3,Debito,Ventas al detalle (Retail)
+Bzpay,2.35,1.25,2.95,0.4,2.6,Debito,Ventas al detalle (Retail)
+Bansí,2.39,1.27,2.5,0.3,2.5,Debito,Ventas al detalle (Retail)
+Bajío,2.41,1.15,4.0,0.59,2.7,Debito,Ventas al detalle (Retail)
+Velpay,2.41,1.43,3.0,0.38,2.3,Debito,Ventas al detalle (Retail)
+Dlocal,2.43,1.39,3.4,0.64,2.05,Debito,Ventas al detalle (Retail)
+Paypal,2.67,1.4,3.83,0.94,3.5,Debito,Ventas al detalle (Retail)
+Cyborgbeat,2.88,2.5,3.6,0.22,2.9,Debito,Ventas al detalle (Retail)
+Xaldo,2.9,2.9,2.9,0.0,2.9,Debito,Ventas al detalle (Retail)
+EMS,2.9,1.2,3.95,0.81,3.95,Debito,Ventas al detalle (Retail)
+Mercado Pago,2.98,1.2,3.79,0.7,3.5,Debito,Ventas al detalle (Retail)
+OEL,3.08,1.5,3.6,0.64,3.6,Debito,Ventas al detalle (Retail)
+Espiral,3.25,2.99,3.5,0.26,3.5,Debito,Ventas al detalle (Retail)
+Pocket,3.38,1.15,3.5,0.44,3.5,Debito,Ventas al detalle (Retail)
+Pago Fácil,3.4,2.5,3.5,0.28,3.5,Debito,Ventas al detalle (Retail)
+PayU Digicuenta,3.46,1.91,3.5,0.16,3.5,Debito,Ventas al detalle (Retail)
+Sr. Pago,3.5,3.5,3.5,0.0,3.5,Debito,Ventas al detalle (Retail)
